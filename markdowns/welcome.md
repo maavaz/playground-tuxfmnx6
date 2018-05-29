@@ -9,7 +9,7 @@ A sua indicação é principalmente no desenvolvimento de programas, tais como: 
 
  
 
-# Principais características da linguagem C a serem ponderadas:
+# Principais características da linguagem C:
 <ul>
 <li>Portabilidade</li>
 <li>Geração de códigos executáveis compactos e rápidos</li>
