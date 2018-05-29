@@ -2,4 +2,11 @@ title: Curso de Programação C
 cover: /cover.png
 plan:
 - title: Curso Programação C - Prof. MARCO VAZ
-  statement: markdowns/welcome.md
+plan:
+- title: My first chapter title
+  description: Esta é a descrição do primeiro capítulo.
+  plan:
+  - title: Introdução a Porgramação C
+    statement: markdowns/welcome.md
+  - title: Lição 2
+    statement: /markdowns/lesson2.md
