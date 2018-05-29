@@ -5,7 +5,7 @@ Estas instruções são escritas através de um conjunto de códigos (símbolos 
 
 # Algoritmo X Programa C
 
-Apresentaremos abaixo um exemplo de um algoritmo para somar dois números inteiros, escritos em pseudocódigo, e sua representação escrita na Linguagem de programação C:
+Abaixo é mostrado um exemplo de um algoritmo para somar dois números inteiros, escritos em pseudocódigo, e sua representação escrita na Linguagem de programação C:
 
 # Pseudocódigo                                                  
                                                                
