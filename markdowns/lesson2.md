@@ -34,3 +34,4 @@ FimAlgoritmo
   printf("\n\nSoma = d", resultado);
   }
   ``` 
+# Por dentro do Programa C
