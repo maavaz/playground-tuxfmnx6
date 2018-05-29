@@ -10,18 +10,13 @@ A sua indicação é principalmente no desenvolvimento de programas, tais como: 
  
 
 # Principais características da linguagem C a serem ponderadas:
-         Portabilidade
-
-        Geração de códigos executáveis compactos e rápidos
-
-         Interação com o sistema operacional
-
-       Facilidade de uso (através de ambientes como o Borland C++ 5.0)
-
-       Linguagem estruturada
-
-        Confiabilidade
-
-         Simplicidade
+<ul>
+<li>Portabilidade</li>
+<li>Geração de códigos executáveis compactos e rápidos</li>
+<li>Interação com o sistema operacional</li>
+<li>Facilidade de uso</li>
+<li>Linguagem estruturada</li>
+<li>Confiabilidade</li>
+<li>Simplicidade</li>
 
  
