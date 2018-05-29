@@ -24,12 +24,13 @@ FimAlgoritmo
   ``` C
   #include<stdio.h>
   int main() { 
+  // Programa que calcula a soma de dois números inteiros
   int num1, num2, resultado; 
   printf("\nDigite o primeiro Número:");
   scanf("%d", &num1); 
   printf("\nDigite o segundo Número:");
   scanf("%d", &num2);
-  resultado = num1 = num2;
+  resultado = num1 + num2;
   printf("\n\nSoma = d", resultado);
   }
   ``` 
