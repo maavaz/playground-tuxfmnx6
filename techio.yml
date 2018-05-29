@@ -6,7 +6,7 @@ plan:
 - title: My first chapter title
   description: Esta é a descrição do primeiro capítulo.
   plan:
-  - title: Introdução a Porgramação C
+  - title: Introdução a Programação C
     statement: markdowns/welcome.md
-  - title: Lição 2
+  - title: Anatomia de um Programa C
     statement: /markdowns/lesson2.md
