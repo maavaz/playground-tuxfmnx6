@@ -18,5 +18,5 @@ A sua indicação é principalmente no desenvolvimento de programas, tais como: 
 <li>Linguagem estruturada</li>
 <li>Confiabilidade</li>
 <li>Simplicidade</li>
-
+</ul>
  
