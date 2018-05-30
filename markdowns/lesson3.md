@@ -32,7 +32,7 @@ A tabela abaixo mostra os principais tipos de dados básico da linguagem C. Ness
 
 Sintaxe:
 
-tipo_da_variável variavel1, variavel2, ..., variavelN;
+<strong> tipo_da_variável variavel1, variavel2, ..., variavelN; </strong>
 
  
 onde tipo_da_variável  é um tipo válido em C (pex. int, char etc) e variavel1, variavel2 .... pode ser um ou mais nomes de identificadores separados por virgula.
@@ -44,10 +44,9 @@ Exemplos:
       float a, A, b;    /* todas variáveis do tipo float */
 
  # Caracteres de controle (Escape) da linguagem C
- A linguagem C possui vários caracteres que desempenham tarefas bastante importantes na formação e exibição dos textos, mas não possuem representação em C. Todo Caractere de controle (Escape) é formado por uma barra invertida e outro caractere que definirá a ação. Para o propósito do curso apresentaremos apenas 
-o caracter utilizado para pular uma linha na impressão ou escrita:
-´´´
+ A linguagem C possui vários caracteres que desempenham tarefas bastante importantes na formação e exibição dos textos, mas não possuem representação em C. Todo Caractere de controle (Escape) é formado por uma barra invertida e outro caractere que definirá a ação. Para o propósito do curso apresentaremos apenas o caracter utilizado para pular uma linha na impressão ou escrita:
+```
 \n - Nova página (line feed)
-´´´´
+```
 Existe um conjunto de caracteres que podem ser utilizados. Pesquisem na Internet (Sequência de Escape).
  
