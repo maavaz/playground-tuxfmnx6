@@ -10,4 +10,5 @@ São utilizados para dar nomes a constantes, variáveis, funções e vários obj
   <li>Utiliza-se identificadores de, no máximo, 32 caracteres por estes serem significativos.</li>
   <li>Não pode ser palavra reservada e nem nome de funções de bibliotecas.</li>
  </ol>
+ 
 <strong>Obs: letras maiúsculas e minúsculas são tratadas de forma diferente. </strong>
