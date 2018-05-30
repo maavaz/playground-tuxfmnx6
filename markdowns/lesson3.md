@@ -52,12 +52,12 @@ Existe um conjunto de caracteres que podem ser utilizados. Pesquisem na Internet
 
 # Vamos praticar
 ?[Assinalar com um X os nomes válidos (identificadores) para as variáveis abaixo:] (multiple)
--[ ] ‘matricula’
+-[] ‘matricula’
 -[X] total_2
--[ ] lal-55-ab
+-[] lal-55-ab
 -[X] notafinaldoaluno
--[ ] 2345_resposta
+-[] 2345_resposta
 -[X] numero_final
 -[X] inter_sal
--[ ] teste*2
+-[] teste*2
     
