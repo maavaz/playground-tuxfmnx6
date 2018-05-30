@@ -51,3 +51,8 @@ Exemplos:
 Existe um conjunto de caracteres que podem ser utilizados. Pesquisem na Internet (Sequência de Escape).
 
 # Vamos praticar
+?[This is the label used for the question](single)
+- [ ] Choice 1
+- [X] Choice 2 which is a valid answer
+- [ ] Choice 3
+- [X] Choice 4 which is a valid answer
