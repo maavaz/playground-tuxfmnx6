@@ -32,14 +32,14 @@ A tabela abaixo mostra os principais tipos de dados básico da linguagem C. Ness
 
 Sintaxe:
 
-<strong> tipo_da_variável variavel1, variavel2, ..., variavelN; </strong>
+<strong> tipo_da_variável     variavel1, variavel2, ..., variavelN; </strong>
 
  
 onde tipo_da_variável  é um tipo válido em C (pex. int, char etc) e variavel1, variavel2 .... pode ser um ou mais nomes de identificadores separados por virgula.
 
 Exemplos:
 
-      int f, i, k;      /* todas variáveis do tipo int */[2]
+      int f, i, k;      /* todas variáveis do tipo int */
 
       float a, A, b;    /* todas variáveis do tipo float */
 
