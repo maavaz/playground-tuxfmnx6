@@ -49,12 +49,3 @@ Exemplos:
 \n - Nova página (line feed)
 ```
 Existe um conjunto de caracteres que podem ser utilizados. Pesquisem na Internet (Sequência de Escape).
-
-# Vamos praticar
-?[What is the answer to Life, the Universe and Everything?]
--[ ] There is no answer to that!
--[ ] Sleep and eat
--[x] Easy, this is 42
--[ ] Peace & Love
-
-    
