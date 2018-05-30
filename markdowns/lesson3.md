@@ -50,8 +50,8 @@ Exemplos:
 ```
 Existe um conjunto de caracteres que podem ser utilizados. Pesquisem na Internet (Sequência de Escape).
 
-<section>
-?[Assinalar com um X os nomes válidos (identificadores) para as variáveis abaixo:](multiple)
+
+??[Assinalar com um X os nomes válidos (identificadores) para as variáveis abaixo:](multiple)
 - [ ] ‘matricula’
 - [X] total_2
 - [ ] lal-55-ab
@@ -60,4 +60,3 @@ Existe um conjunto de caracteres que podem ser utilizados. Pesquisem na Internet
 - [X] numero_final
 - [X] inter_sal
 - [ ] teste*2
-</section>
