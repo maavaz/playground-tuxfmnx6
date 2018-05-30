@@ -12,3 +12,5 @@ plan:
     statement: /markdowns/lesson2.md
   - title: Elementos Básicos
     statement: /markdowns/lesson3.md
+  - title: Elementos Básicos (Continuação)
+    statement: /markdowns/lesson4.md
