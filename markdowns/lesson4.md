@@ -3,6 +3,15 @@ Para que um programa possa manipular os dados, estes precisam estar armazenados 
 Imagine a memória do seu computador, como se fosse um escaninho (figura abaixo) onde cada local é utilizado para armazenar dados e podem ser identificados por um nome. 
 ![gavetas](/markdowns/gavetas.png)
 
+Para se utilizada pelo programa, a variável precisa ser declarada. A declaração da variável consiste de um nome (as regras de formação do nome encontra-se descrita item Identificadores) e associada a um tipo de dado, conforme exemplo abaixo:
+```
+Exemplo:
+
+<strong>int</strong> total, x;
+<strong>char</strong> flag;
+<strong>single</strong> salario, desconto;
+```
+
 # Instruções 
  Uma instrução em linguagem C é uma expressão seguida de um ponto e vírgula. Pode ser uma atribuição, uma chamada de função, um teste de desvio ou um teste de laço.
  
