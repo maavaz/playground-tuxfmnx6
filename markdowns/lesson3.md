@@ -51,7 +51,7 @@ Exemplos:
 Existe um conjunto de caracteres que podem ser utilizados. Pesquisem na Internet (Sequência de Escape).
 
 # Vamos praticar
-?[ Assinalar com um X os nomes válidos (identificadores) para as variáveis abaixo:](multiple)
+?[ Assinalar com um X os nomes válidos (identificadores) para as variáveis abaixo:]
 - [ ] ‘matricula’
 - [X] total_2
 - [ ] lal-55-ab
