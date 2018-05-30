@@ -51,8 +51,21 @@ Exemplos:
 Existe um conjunto de caracteres que podem ser utilizados. Pesquisem na Internet (Sequência de Escape).
 
 # Vamos praticar
-?[This is the label used for the question](single)
-- [ ] Choice 1
-- [X] Choice 2 which is a valid answer
-- [ ] Choice 3
-- [X] Choice 4 which is a valid answer
+?[Assinalar com um X os nomes válidos (identificadores) para as variáveis abaixo:] (multiple)
+
+- [  ] ‘matricula’
+
+- [X] total_2
+
+- [  ] lal-55-ab
+
+- [X] notafinaldoaluno
+
+- [  ] 2345_resposta
+
+- [X] numero_final
+
+- [X] inter_sal
+
+- [  ] teste*2
+    
