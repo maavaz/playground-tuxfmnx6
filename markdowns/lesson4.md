@@ -1,5 +1,5 @@
 # Variáveis
-Para que um programa possa manipular os dados, estes precisam estar armazenados em locais da memória do computador, denominado de <striong>variáveis</strong>. As variáveis podem ser definidas como locais de memória que servem para armazenar temporariamente (durante a execução do programa) dados (valores) que devem ser utilizados pelo programa. Esses dados podem ser informações vindas do meio exterior; ou resultados intermediários de alguma operação interna; ou valores que precisam ser exibidos na tela do computador como resultado da execução do programa. 
+Para que um programa possa manipular os dados, estes precisam estar armazenados em locais da memória do computador, denominado de <strong>variáveis</strong>. As variáveis podem ser definidas como locais de memória que servem para armazenar temporariamente (durante a execução do programa) dados (valores) que devem ser utilizados pelo programa. Esses dados podem ser informações vindas do meio exterior; ou resultados intermediários de alguma operação interna; ou valores que precisam ser exibidos na tela do computador como resultado da execução do programa. 
 Imagine a memória do seu computador, como se fosse um escaninho (figura abaixo) onde cada local é utilizado para armazenar dados e podem ser identificados por um nome. 
 ![gavetas](/markdowns/gavetas.png)
 
