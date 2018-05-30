@@ -20,7 +20,7 @@ A tabela abaixo mostra os principais tipos de dados básico da linguagem C. Ness
     <th>Tipo</th>
     <th>Número de bytes</th>
     <th>Escala</th>
- <tr align="center"><td><strong>char</strong></td> <td> 1 </td> <td> -128 a 127</td> </tr>
+ <tr><td><strong>char</strong></td> <td align="center"> 1 </td> <td> -128 a 127</td> </tr>
  <tr align="center"><td><strong>int</strong></td> <td> 2</td> <td> -32768 a 32767</td> </tr>
  <tr align="center"><td><strong> float </strong></td> <td> 4 </td> <td> 3.4E-38 a 3.4E+38 (+-)</td> </tr>
 <tr align="center"><td><strong> double </strong></td> <td> 4 </td> <td> 1.7E-308 a 1.7E+308 (+-)</td> </tr>
