@@ -46,6 +46,8 @@ Exemplos:
  # Caracteres de controle (Escape) da linguagem C
  A linguagem C possui vários caracteres que desempenham tarefas bastante importantes na formação e exibição dos textos, mas não possuem representação em C. Todo Caractere de controle (Escape) é formado por uma barra invertida e outro caractere que definirá a ação. Para o propósito do curso apresentaremos apenas 
 o caracter utilizado para pular uma linha na impressão ou escrita:
+´´´
 \n - Nova página (line feed)
- Existe um conjunto de caracteres que podem ser utilizados. Pesquisem na Internet (Sequência de Escape).
+´´´´
+Existe um conjunto de caracteres que podem ser utilizados. Pesquisem na Internet (Sequência de Escape).
  
