@@ -12,16 +12,13 @@
 -[]variável tipo;
 -[]tipo = variável;
 
-::Finding bugs::
-?[Consider the following code\:\n
-\n    x\=5;
-\n    if x\=5
-\n        disp("It worked!")
-\n    else
-\n        print('Uh oh!')
-\n    done
-\n\n\n
-On which lines do bugs occur? Answer in the form [1,2,3].
-{
-        =[2,3,5,6]
-}]
+<iframe src="https://tech.io/snippet-widget/0iHIBPD" width="100%" frameborder="0" scrolling="no" allowtransparency="true" style="visibility: hidden">
+</iframe>
+<script>
+  if (typeof window.techioScriptInjected === 'undefined') {
+    window.techioScriptInjected = true;
+    var script = document.createElement('script');
+    script.src = 'https://files.codingame.com/codingame/iframe-v-1-4.js';
+    (document.head || document.body).appendChild(script);
+  }
+</script>
