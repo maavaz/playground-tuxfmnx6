@@ -9,7 +9,7 @@ Existe um conjunto de caracteres que podem ser utilizados, a medida que forem ne
  Uma instrução em linguagem C é uma expressão seguida de um ponto e vírgula. Pode ser uma atribuição, uma chamada de função, um teste de desvio ou um teste de laço.
  
 # Comando de Atribuição 
-O Coamndo de atribuição é uma instrução que tem como objetivo mover um valor para dentro da variável. Em C, o comando de atribuição é representado pelo símbolo de igual (=).
+O Comando de atribuição é uma instrução que tem como objetivo mover um valor para dentro da variável. Em C, o comando de atribuição é representado pelo símbolo de igual (=).
 
 Exemplo de instrução de atribuição:       
 
