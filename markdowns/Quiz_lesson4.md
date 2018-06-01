@@ -13,8 +13,7 @@
 -[]tipo = variável;
 
 ::Finding bugs::
-?[markdown]
-Consider the following code\:\n
+?[Consider the following code\:\n
 \n    x\=5;
 \n    if x\=5
 \n        disp("It worked!")
@@ -25,4 +24,4 @@ Consider the following code\:\n
 On which lines do bugs occur? Answer in the form [1,2,3].
 {
         =[2,3,5,6]
-}
+}]
