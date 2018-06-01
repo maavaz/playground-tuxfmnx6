@@ -18,4 +18,20 @@ x = 12;
 Note-se que o operando do lado esquerdo do operador de atribuição é sempre uma variável, e que o operando do lado direito deve ser de um tipo de dado compatível com o tipo da variável. Após a execução comando a variável <strong>x</strong> conterá (armazena) o valor 12.
 
  
-# Operadores
+# Operações Aritméticas
+Em C , nós podemos executar operações aritméticas usando variáveis e constantes como operandos separados pelos operadores aritméticos. Os operadores aritméticos em C são:
+
+<H3> +  adição </H3>
+-  subtração
+*  multiplicação
+/  divisão
+%  resto (módulo)
+
+Estas operações podem ser usadas como mostram os exemplos abaixo, assumindo que as variáveis necessárias já estão declaradas:
+```
+     celsius = (fahrenheit - 32) * 5.0 / 9.0;
+
+     forca =  massa * aceleracao;
+
+     i = i + 1;
+```     
