@@ -12,11 +12,9 @@
 -[]variável tipo;
 -[]tipo = variável;
 
-````
-```C  runnable
+```javascript runnable
 var a = 2;
 var b = 4;
-printf("%d",a+b);
+console.log(a+b);
 ```
-````
 
