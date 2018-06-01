@@ -14,5 +14,5 @@ plan:
     statement: /markdowns/lesson3.md
   - title: Elementos Básicos (Continuação)
     statement: /markdowns/lesson4.md
- - title: Testando os Conhecimentos
+  - title: Testando os Conhecimentos
     statement: /markdowns/Quiz_lesson4.md
