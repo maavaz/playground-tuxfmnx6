@@ -25,7 +25,7 @@ Em C , nós podemos executar operações aritméticas usando variáveis e consta
 <H4> -  (subtração) </H4>
 <H4> *  (multiplicação) </H4>
 <H4> /  (divisão) </H4>
-<H4> %   (resto) ) </H4>
+<H4> %   (resto)  </H4>
 
 Estas operações podem ser usadas como mostram os exemplos abaixo, assumindo que as variáveis necessárias já estão declaradas:
 ```
