@@ -12,5 +12,11 @@
 -[]variável tipo;
 -[]tipo = variável;
 
-@[Hello World Example]({"stubs": ["HelloWorld.java"], "command": "javac HelloWorld.java && java HelloWorld"})
+````
+```C  runnable
+var a = 2;
+var b = 4;
+printf("%d",a+b);
+```
+````
 
