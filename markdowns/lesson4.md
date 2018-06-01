@@ -1,16 +1,9 @@
-# Variáveis
-Para que um programa possa manipular os dados, estes precisam estar armazenados em locais da memória do computador, denominado de <strong>variáveis</strong>. As variáveis podem ser definidas como locais de memória que servem para armazenar temporariamente (durante a execução do programa) dados (valores) que devem ser utilizados pelo programa. Esses dados podem ser informações vindas do meio exterior; ou resultados intermediários de alguma operação interna; ou valores que precisam ser exibidos na tela do computador como resultado da execução do programa. 
-Imagine a memória do seu computador, como se fosse um escaninho (figura abaixo) onde cada local é utilizado para armazenar dados e podem ser identificados por um nome. 
-![gavetas](/markdowns/gavetas.png)
-
-Para se utilizada pelo programa, a variável precisa ser declarada. Para se declarar uma variável é necessário dar  um nome (as regras de formação do nome encontra-se descrito no item [Identificadores](/markdowns/lesson3.md)) e associá-la a um tipo de dado, conforme exemplo abaixo:
+# Caracteres de controle (Escape) da linguagem C
+ A linguagem C possui vários caracteres que desempenham tarefas bastante importantes na formação e exibição dos textos, mas não possuem representação em C. Todo Caractere de controle (Escape) é formado por uma barra invertida e outro caractere que definirá a ação. Para o propósito do curso apresentaremos apenas o caracter utilizado para pular uma linha na impressão ou escrita:
 ```
-Exemplo:
-
-int total, x;                   // as variáveis total e x irão armazenar valores do tipo Inteiro
-char flag;                     // a varável flag irá armazenar valores do tipo caracteres, pex. 'a', 'z' ...
-single salario, desconto;     // as variáveis salario e desconto irão armazenar valores do tipo single
+\n - Nova página (line feed)
 ```
+Existe um conjunto de caracteres que podem ser utilizados, a medida que forem necessários iremos apresentá-los. Mas, caso queiram, podem pesquisá-los na Internet (Sequência de Escape).
 
 # Instruções 
  Uma instrução em linguagem C é uma expressão seguida de um ponto e vírgula. Pode ser uma atribuição, uma chamada de função, um teste de desvio ou um teste de laço.
