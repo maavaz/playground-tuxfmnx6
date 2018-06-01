@@ -30,7 +30,7 @@ Para que um programa possa manipular os dados, estes precisam estar armazenados 
 Imagine a memória do seu computador, como se fosse um escaninho (figura abaixo) onde cada local é utilizado para armazenar dados e podem ser identificados por um nome. 
 ![gavetas](/markdowns/gavetas.png)
 
-Para se utilizada pelo programa, a variável precisa ser declarada. Para se declarar uma variável é necessário dar  um nome (as regras de formação do nome encontra-se descrito no item <a href="identificadores">Identificadores</a>) e associá-la a um tipo de dado, conforme exemplo abaixo:
+Para se utilizada pelo programa, a variável precisa ser declarada. Para se declarar uma variável é necessário dar  um nome (as regras de formação do nome encontra-se descrito no item <a href="#identificadores">Identificadores</a>) e associá-la a um tipo de dado, conforme exemplo abaixo:
 ```
 Exemplo:
 
