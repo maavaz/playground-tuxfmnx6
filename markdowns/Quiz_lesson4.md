@@ -13,7 +13,7 @@
 -[]tipo = variável;
 
 ```c runnable
-int a, b, c;
+
 a = 2;
 b = 4;
 c = a + b;
