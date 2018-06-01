@@ -38,3 +38,4 @@ Estas operações podem ser usadas como mostram os exemplos abaixo, assumindo qu
 
      i = i + 1;
 ```     
+<strong> A seguir, Apresentamos uma série de Quiz para treinarmos o que foi aprendido até o momento...</strong>
