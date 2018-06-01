@@ -12,5 +12,5 @@
 -[]variável tipo;
 -[]tipo = variável;
 
-
+@[Hello World Example]({"stubs": ["HelloWorld.java"], "command": "javac HelloWorld.java && java HelloWorld"})
 
