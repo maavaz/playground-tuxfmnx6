@@ -1,7 +1,6 @@
 # Testando os conhecimentos....
 
-?[De acordo com os valores movidos para as variáveis nos comandos abaixo, indique a linha que contém a declaração na sua forma correta em C:letra = 'm'; numero1 = 13; numero2 = 8.98;](single)
-   
+?[De acordo com os valores movidos para as variáveis nos comandos abaixo, indique a linha que contém a declaração na sua forma correta em C: letra = 'm'; numero1 = 13; numero2 = 8.98;](single)
 [] int letra; float numero1; char numero2; 
 [] char letra; char numero1; float numero2;
 [x]char letra; int numero1; float numero2;
