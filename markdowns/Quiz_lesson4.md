@@ -11,7 +11,7 @@
 -[x]tipo variável;
 -[]variável tipo;
 -[]tipo = variável;
-
+# teste de código
 <iframe src="https://tech.io/snippet-widget/0iHIBPD" width="100%" frameborder="0" scrolling="no" allowtransparency="true" style="visibility: hidden">
 </iframe>
 <script>
