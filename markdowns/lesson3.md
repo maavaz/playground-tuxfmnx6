@@ -37,6 +37,7 @@ Exemplo:
 int total, x;                   // as variáveis total e x irão armazenar valores do tipo Inteiro
 char flag;                     // a varável flag irá armazenar valores do tipo caracteres, pex. 'a', 'z' ...
 single salario, desconto;     // as variáveis salario e desconto irão armazenar valores do tipo single
+```
 
 # Declaração de variáveis
  A forma geral para declaração de uma variável é:
