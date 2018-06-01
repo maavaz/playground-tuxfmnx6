@@ -11,3 +11,18 @@
 -[x]tipo variável;
 -[]variável tipo;
 -[]tipo = variável;
+
+::Finding bugs::
+?[markdown]
+Consider the following code\:\n
+\n    x\=5;
+\n    if x\=5
+\n        disp("It worked!")
+\n    else
+\n        print('Uh oh!')
+\n    done
+\n\n\n
+On which lines do bugs occur? Answer in the form [1,2,3].
+{
+        =[2,3,5,6]
+}
