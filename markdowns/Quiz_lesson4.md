@@ -12,7 +12,7 @@
 -[]variável tipo;
 -[]tipo = variável;
 
-```javascript runnable
+```c runnable
 int a, b, c;
 a = 2;
 b = 4;
