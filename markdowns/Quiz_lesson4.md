@@ -13,8 +13,9 @@
 -[]tipo = variável;
 
 ```javascript runnable
-var a = 2;
-var b = 4;
-console.log(a+b);
+int a, b, c;
+a = 2;
+b = 4;
+c = a + b;
 ```
 
