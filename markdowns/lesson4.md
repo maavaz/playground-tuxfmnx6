@@ -25,7 +25,7 @@ Note-se que o operando do lado esquerdo do operador de atribuição é sempre um
  <ul>
   <li>EXIBINDO TEXTOS (MENSAGENS) NA TELA DO COMPUTADOR</li>
  </ul> 
-  Para que o comando exiba qualquer mensagem (Texto) que o usuário desejar, basta colocá-los entre aspas duplas, como no trecho de código abaixo (para executar selecione a tecla Run):
+  Para que o comando **printf** exiba qualquer mensagem (Texto) que o usuário desejar, basta colocá-los entre aspas duplas, como no trecho de código abaixo (para executar selecione a tecla Run):
   
  ```C runnable
  #include<stdio.h> //Obrigatório para executar o comando printf
@@ -36,8 +36,17 @@ Note-se que o operando do lado esquerdo do operador de atribuição é sempre um
 ``` 
 <ul>
 <li>EXIBINDO NÚMEROS NA TELA DO COMPUTADOR </li>
-
 </ul>
+Para que o comando **printf** exiba qualquer valor numérico é obrigatório formatá-lo dentro através de caracteres de formatação, dentro de um texto.
+```
+Caracteres de formatação são formados pelo simbolo **%** seguido de uma letra que representa o tipo de dado que se quer exibir:
+'\t'**d** - variáveis e valores do tipo int
+'\t'**f** - variáveis e valores do tipo float 
+'\t'**s** - variáveis e valores do tipo string
+
+obs: existem outros caracteres de formatação que apresentaremos a medida que necessitarmos.
+```
+
 # Operações Aritméticas
 Em C , nós podemos executar operações aritméticas usando variáveis e constantes como operandos separados pelos operadores aritméticos. Os operadores aritméticos em C são:
 
