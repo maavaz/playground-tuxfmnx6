@@ -44,7 +44,6 @@ Para que o comando **printf** exiba qualquer **valor numérico** é obrigatório
 Caracteres de formatação são formados pelo simbolo % seguido de uma letra que representa o tipo de dado que se quer exibir:
 %d - variáveis e valores do tipo int
 %f - variáveis e valores do tipo float 
-%c - variáveis e valores do tipo char
 
 obs: existem outros caracteres de formatação que apresentaremos a medida que necessitarmos.
 
@@ -56,12 +55,12 @@ obs: existem outros caracteres de formatação que apresentaremos a medida que n
     int   a = -767;
     int   b = 1000;
     float c = 3.20;
-    char  l = "a";
+    char  carac = 'a';
         
   printf("\n%d", a);              //  '\n' inicia a impressão numa nova linha
   printf("\n b = %d",b);         // exibe o texto b = seguido do valor da variável b
   printf("\n result = %f", c*2); // exibe o valor de c multiplicado por 2
-  printf("\n l = ", l);         // exibe o caracter a    
+  printf("\n caracter = ", carac);         // exibe o caracter a    
     
  }
 ``` 
