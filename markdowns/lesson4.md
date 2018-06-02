@@ -25,7 +25,7 @@ Note-se que o operando do lado esquerdo do operador de atribuição é sempre um
  Para utilizarmos essa função é necessário incluirmos a diretiva **#include** para o arquivo **stdio.h**, como exibido abaixo:<br />
  **#include<stdio.h>**
  
- <iframe src="https://tech.io/snippet-widget/ahHFivF" width="100%" frameborder="0" scrolling="no" allowtransparency="true" style="visibility: hidden">
+ <iframe src="https://tech.io/snippet-widget/ahHFivF" width="100%" frameborder="0" scrolling="no" allowtransparency="true">
 </iframe>
 <script>
   if (typeof window.techioScriptInjected === 'undefined') {
