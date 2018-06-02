@@ -37,12 +37,14 @@ Note-se que o operando do lado esquerdo do operador de atribuição é sempre um
 <ul>
 <li>EXIBINDO NÚMEROS NA TELA DO COMPUTADOR </li>
 </ul>
+
 Para que o comando **printf** exiba qualquer valor numérico é obrigatório formatá-lo dentro através de caracteres de formatação, dentro de um texto.
+
 ```
 Caracteres de formatação são formados pelo simbolo **%** seguido de uma letra que representa o tipo de dado que se quer exibir:
-'\t'**d** - variáveis e valores do tipo int
-'\t'**f** - variáveis e valores do tipo float 
-'\t'**s** - variáveis e valores do tipo string
+"\t"**d** - variáveis e valores do tipo int
+"\t"**f** - variáveis e valores do tipo float 
+"\t"**s** - variáveis e valores do tipo string
 
 obs: existem outros caracteres de formatação que apresentaremos a medida que necessitarmos.
 ```
