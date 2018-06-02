@@ -12,15 +12,25 @@
 -[]variável tipo;
 -[]tipo = variável;
 
+
 ```C runnable
 #include<stdio.h>
 int main(){
 int a, b, c;
+float d, e;
 a = 2;
 b = 4;
 c = a + b;
-printf("%d",c);
+d = 20.0;
+e = d / a;
+printf("c = %?",c);
+printf("e = %?",e);
+
 return 0;
 }
 ```
-
+?[Para que o programa acima possa executar corretamente, que caracteres de formatação devem ser colocados no lugar do caracter interrogação? *modifique o programa acima para executá-lo e depois responda a pergunta](single)
+-[] a e b
+-[]d e c;
+-[x]d e f;
+-[]f e c;
