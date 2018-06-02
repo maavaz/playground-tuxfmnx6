@@ -16,20 +16,20 @@
 ```C runnable
 #include<stdio.h>
 int main(){
-int a, b, c;
-float d, e;
+int a, b, soma;
+float d, divisao;
 a = 2;
 b = 4;
-c = a + b;
+soma = a + b;
 d = 20.0;
-e = d / a;
-printf("c = %?",c);
-printf("e = %?",e);
+divisao = d / a;
+printf("c = %?",soma);
+printf("e = %?",divisao);
 
 return 0;
 }
 ```
-?[Para que o programa acima possa executar corretamente, que caracteres de formatação devem ser colocados no lugar do caracter interrogação? *modifique o programa acima para executá-lo e depois responda a pergunta](single)
+?[Para que o programa acima possa exibir o conteúdo das variáveis soma e divisao corretamente, que caracteres de formatação devem ser colocados no lugar do caracter interrogação? *modifique o programa acima para executá-lo e depois responda a essa pergunta](single)
 -[] a e b
 -[]d e c;
 -[x]d e f;
