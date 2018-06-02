@@ -54,7 +54,7 @@ obs: existem outros caracteres de formatação que apresentaremos a medida que n
  #include<stdio.h> //Obrigatório para executar o comando printf
  int main(){
     int   a = -767;
-          b = 1000;
+    int   b = 1000;
     float c = 3.20;
     char  l = 'a';
         
