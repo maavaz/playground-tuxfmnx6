@@ -56,11 +56,11 @@ obs: existem outros caracteres de formatação que apresentaremos a medida que n
     int   a = -767;
     int   b = 1000;
     float c = 3.20;
-    char  l = 'a';
+    char  l = "a";
         
   printf("\n%d", a);              //  '\n' inicia a impressão numa nova linha
   printf("\n b = %d",b);         // exibe o texto b = seguido do valor da variável b
-  printf("\n result= %f", c*2); // exibe o valor de c multiplicado por 2
+  printf("\n result = %f", c*2); // exibe o valor de c multiplicado por 2
   printf("\n l = ", l);         // exibe o caracter a    
     
  }
