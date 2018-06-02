@@ -35,18 +35,21 @@ return 0;
 -[x]d e f;
 -[]f e c;
 
-?[considerando um algoritmo iniciado pelos comandos:
+
 ```
-		     float a  =  20;
+considerando um programa iniciado pelos comandos:
+             float a  =  20;
 		     float b  = 12;
 		     float c  = 32;
-```   
-informe os valores que estarão contidos nas variáveis após a execução dos comandos, a seguir:
-```
 		     c  = a + b;
 		     b  = c -  a;
 		     a  = c / 4;
 		     b  = (b / 2) + 2;
 		     c  = c / ( a / 2);
-```](single)
+```		     
+?[informe os valores que estarão contidos nas variáveis após a execução dos comandos, a seguir:](single)
+-[]a = 4, b = 5 e c= 6.
+-[]a = 5, b = 5 e c= 5.
+-[]a = 4, b = 3 e c= 2.
+-[x]a = 4, b = 4 e c= 4.
 
