@@ -60,7 +60,7 @@ obs: existem outros caracteres de formatação que apresentaremos a medida que n
   printf("\n%d", a);              //  '\n' inicia a impressão numa nova linha
   printf("\n b = %d",b);         // exibe o texto b = seguido do valor da variável b
   printf("\n result = %f", c*2); // exibe o valor de c multiplicado por 2
-  printf("\n caracter = ", carac);         // exibe o caracter a    
+  printf("\n caracter = %c", carac);         // exibe o caracter a    
     
  }
 ``` 
