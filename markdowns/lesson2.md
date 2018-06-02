@@ -35,6 +35,8 @@ FimAlgoritmo
   }
   ``` 
 # Por dentro do Programa C
+Um programa C consiste de uma ou mais partes chamadas funções. Um programa em C consiste de pelo menos uma função chamada main. Esta função marca o ponto de início de execução do programa.
+Programas C tem a seguinte estrutura geral:
 ![Anatomia](/markdowns/anatomiaC.png)
 
 <ul>
