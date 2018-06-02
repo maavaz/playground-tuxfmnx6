@@ -20,6 +20,10 @@ x = 12;
 
 Note-se que o operando do lado esquerdo do operador de atribuição é sempre uma variável, e que o operando do lado direito deve ser de um tipo de dado compatível com o tipo da variável. Após a execução comando a variável <strong>x</strong> conterá (armazena) o valor 12.
 
+ # Saída de Dados
+ Para um programa exibir na tela do computador (ou impressora) os resultados precisamos usar um comando de Saída. Em C, não há um comando específico, mas uma função denominada *printf* que executa essa tarefa. 
+ Para utilizarmos essa função é necessário incluirmos a diretiva *#include* para o arquivo *stdio.h*, como exibido abaixo:
+ *#include<stdio.h>*
  
 # Operações Aritméticas
 Em C , nós podemos executar operações aritméticas usando variáveis e constantes como operandos separados pelos operadores aritméticos. Os operadores aritméticos em C são:
