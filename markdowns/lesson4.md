@@ -42,9 +42,9 @@ Para que o comando **printf** exiba qualquer **valor numérico** é obrigatório
 
 ```
 Caracteres de formatação são formados pelo simbolo % seguido de uma letra que representa o tipo de dado que se quer exibir:
-d - variáveis e valores do tipo int
-f - variáveis e valores do tipo float 
-s - variáveis e valores do tipo string
+%d - variáveis e valores do tipo int
+%f - variáveis e valores do tipo float 
+%s - variáveis e valores do tipo string
 
 obs: existem outros caracteres de formatação que apresentaremos a medida que necessitarmos.
 
