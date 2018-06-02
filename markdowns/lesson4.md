@@ -26,9 +26,7 @@ Note-se que o operando do lado esquerdo do operador de atribuição é sempre um
                                               **#include<stdio.h>**
  <ul>
   <li>EXIBINDO TEXTOS (MENSAGENS) NA TELA DO COMPUTADOR</li>
- </ul>
- 
- Para que o comando exiba qualquer mensagem (Texto) que o usuário desejar, basta colocá-los entre aspas duplas, como no trecho de código abaixo (para executar selecione a tecla Run):
+  Para que o comando exiba qualquer mensagem (Texto) que o usuário desejar, basta colocá-los entre aspas duplas, como no trecho de código abaixo (para executar selecione a tecla Run):
  ```C runnable
  #include<stdio.h> //Obrigatório para executar o comando printf
  int main(){
@@ -36,7 +34,9 @@ Note-se que o operando do lado esquerdo do operador de atribuição é sempre um
     printf("Isso é uma mensagem de exemplo para exibirmos textos!");
  }
 ``` 
+<li>EXIBINDO NÚMEROS NA TELA DO COMPUTADOR </li>
 
+</lu>
 # Operações Aritméticas
 Em C , nós podemos executar operações aritméticas usando variáveis e constantes como operandos separados pelos operadores aritméticos. Os operadores aritméticos em C são:
 
