@@ -23,18 +23,16 @@ Note-se que o operando do lado esquerdo do operador de atribuição é sempre um
  # Saída de Dados
  Para um programa exibir na tela do computador (ou impressora) os resultados precisamos usar um comando de Saída. Em C, não há um comando específico, mas uma função denominada **printf** que executa essa tarefa. 
  Para utilizarmos essa função é necessário incluirmos a diretiva **#include** para o arquivo **stdio.h**, como exibido abaixo:<br />
- **#include<stdio.h>**
- 
- <iframe src="https://tech.io/snippet-widget/ahHFivF" width="100%" frameborder="0" scrolling="no" allowtransparency="true">
-</iframe>
-<script>
-  if (typeof window.techioScriptInjected === 'undefined') {
-    window.techioScriptInjected = true;
-    var script = document.createElement('script');
-    script.src = 'https://files.codingame.com/codingame/iframe-v-1-4.js';
-    (document.head || document.body).appendChild(script);
-  }
-</script>
+                                              **#include<stdio.h>**
+ +EXIBINDO TEXTOS (MENSAGENS) NA TELA DO COMPUTADOR
+ Para que o comando exiba qualquer mensagem (Texto) que o usuário desejar, basta colocá-los entre aspas duplas, como no trecho de código abaixo (para executar selecione a tecla Run):
+ ```C runnable
+ #include<stdio.h> //Obrigatório para executar o comando printf
+ int main(){
+    
+    printf("Isso é uma mensagem de exemplo para exibir textos!");
+ }
+``` 
 
 # Operações Aritméticas
 Em C , nós podemos executar operações aritméticas usando variáveis e constantes como operandos separados pelos operadores aritméticos. Os operadores aritméticos em C são:
