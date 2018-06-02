@@ -8,7 +8,7 @@ Estas instruções são escritas através de um conjunto de códigos (símbolos 
 Abaixo é mostrado um exemplo de um algoritmo para somar dois números inteiros, escritos em pseudocódigo, e sua representação escrita na Linguagem de programação C:
 
 # Pseudocódigo                                                  
-                                                               
+```                                                               
 Algoritmo "Soma dois Numeros"                                  
 Var                                                              
    Inteiro: num1, num2, resultado                                
@@ -19,7 +19,7 @@ leia(num2)
 resultado <- num1 + num2                                       
 escreva ("Soma = ", resultado)                                 
 FimAlgoritmo                                                   
-
+```
 # Programa C
   ``` C
   #include<stdio.h>
