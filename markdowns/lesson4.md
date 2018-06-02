@@ -24,8 +24,9 @@ Note-se que o operando do lado esquerdo do operador de atribuição é sempre um
                                               **#include<stdio.h>**
  <ul>
   <li>EXIBINDO TEXTOS (MENSAGENS) NA TELA DO COMPUTADOR</li>
+ </ul> 
   Para que o comando exiba qualquer mensagem (Texto) que o usuário desejar, basta colocá-los entre aspas duplas, como no trecho de código abaixo (para executar selecione a tecla Run):
-  </ul>
+  
  ```C runnable
  #include<stdio.h> //Obrigatório para executar o comando printf
  int main(){
