@@ -39,7 +39,7 @@ return 0;
 ```
 Considerando um programa iniciado pelos comandos:
              float a  =  20;
-	         float b  = 12;
+             float b  = 12;
              float c  = 32;
              c  = a + b;
              b  = c -  a;
