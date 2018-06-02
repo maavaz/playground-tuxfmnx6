@@ -36,7 +36,7 @@ Note-se que o operando do lado esquerdo do operador de atribuição é sempre um
 ``` 
 <li>EXIBINDO NÚMEROS NA TELA DO COMPUTADOR </li>
 
-</lu>
+</ul>
 # Operações Aritméticas
 Em C , nós podemos executar operações aritméticas usando variáveis e constantes como operandos separados pelos operadores aritméticos. Os operadores aritméticos em C são:
 
