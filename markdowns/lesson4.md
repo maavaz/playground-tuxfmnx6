@@ -30,7 +30,7 @@ Note-se que o operando do lado esquerdo do operador de atribuição é sempre um
  #include<stdio.h> //Obrigatório para executar o comando printf
  int main(){
     
-    printf("Isso é uma mensagem de exemplo para exibir textos!");
+    printf("Isso é uma mensagem de exemplo para exibirmos textos!");
  }
 ``` 
 
