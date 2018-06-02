@@ -5,7 +5,6 @@
 '\n' - Nova página (line feed)
 
 ```
-
 Existe um conjunto de caracteres que podem ser utilizados, a medida que forem necessários iremos apresentá-los. Mas, caso queiram, podem pesquisá-los na Internet (Sequência de Escape).
 
 # Instruções 
@@ -13,7 +12,6 @@ Existe um conjunto de caracteres que podem ser utilizados, a medida que forem ne
  
 # Comando de Atribuição 
 O Comando de atribuição é uma instrução que tem como objetivo mover um valor para dentro da variável. Em C, o comando de atribuição é representado pelo símbolo de igual (=).
-
 Exemplo de instrução de atribuição:       
 
 x = 12;
@@ -27,6 +25,7 @@ Note-se que o operando do lado esquerdo do operador de atribuição é sempre um
  <ul>
   <li>EXIBINDO TEXTOS (MENSAGENS) NA TELA DO COMPUTADOR</li>
   Para que o comando exiba qualquer mensagem (Texto) que o usuário desejar, basta colocá-los entre aspas duplas, como no trecho de código abaixo (para executar selecione a tecla Run):
+  </ul>
  ```C runnable
  #include<stdio.h> //Obrigatório para executar o comando printf
  int main(){
@@ -34,6 +33,7 @@ Note-se que o operando do lado esquerdo do operador de atribuição é sempre um
     printf("Isso é uma mensagem de exemplo para exibirmos textos!");
  }
 ``` 
+<ul>
 <li>EXIBINDO NÚMEROS NA TELA DO COMPUTADOR </li>
 
 </ul>
