@@ -25,7 +25,7 @@ Note-se que o operando do lado esquerdo do operador de atribuição é sempre um
  <ul>
   <li>EXIBINDO TEXTOS (MENSAGENS) NA TELA DO COMPUTADOR</li>
  </ul> 
-  Para que o comando **printf** exiba qualquer <strong>mensagem (Texto)</strong> que o usuário desejar, basta colocá-los entre aspas duplas, como no trecho de código abaixo (para executar selecione a tecla Run):
+  Para que o comando <strong>printf</strong> exiba qualquer <strong>mensagem (Texto)</strong> que o usuário desejar, basta colocá-los entre aspas duplas, como no trecho de código abaixo (para executar selecione a tecla Run):
   
  ```C runnable
  #include<stdio.h> //Obrigatório para executar o comando printf
