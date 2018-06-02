@@ -12,7 +12,7 @@
 -[]variável tipo;
 -[]tipo = variável;
 
-```c runnable
+```C runnable
 #include<stdio.h>
 int main(){
 int a, b, c;
