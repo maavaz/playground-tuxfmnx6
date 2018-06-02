@@ -24,7 +24,10 @@ Note-se que o operando do lado esquerdo do operador de atribuição é sempre um
  Para um programa exibir na tela do computador (ou impressora) os resultados precisamos usar um comando de Saída. Em C, não há um comando específico, mas uma função denominada **printf** que executa essa tarefa. 
  Para utilizarmos essa função é necessário incluirmos a diretiva **#include** para o arquivo **stdio.h**, como exibido abaixo:<br />
                                               **#include<stdio.h>**
- +EXIBINDO TEXTOS (MENSAGENS) NA TELA DO COMPUTADOR
+ <ul>
+  <li>EXIBINDO TEXTOS (MENSAGENS) NA TELA DO COMPUTADOR</li>
+ </ul>
+ 
  Para que o comando exiba qualquer mensagem (Texto) que o usuário desejar, basta colocá-los entre aspas duplas, como no trecho de código abaixo (para executar selecione a tecla Run):
  ```C runnable
  #include<stdio.h> //Obrigatório para executar o comando printf
