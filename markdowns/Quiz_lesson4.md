@@ -37,17 +37,17 @@ return 0;
 
 
 ```
-considerando um programa iniciado pelos comandos:
+Considerando um programa iniciado pelos comandos:
              float a  =  20;
-		     float b  = 12;
-		     float c  = 32;
-		     c  = a + b;
-		     b  = c -  a;
-		     a  = c / 4;
-		     b  = (b / 2) + 2;
-		     c  = c / ( a / 2);
+	         float b  = 12;
+             float c  = 32;
+             c  = a + b;
+             b  = c -  a;
+             a  = c / 4;
+             b  = (b / 2) + 2;
+             c  = c / ( a / 2);
 ```		     
-?[informe os valores que estarão contidos nas variáveis após a execução dos comandos, a seguir:](single)
+?[informe os valores que estarão contidos nas variáveis a, b, c após a execução do trecho de comandos, acima:](single)
 -[]a = 4, b = 5 e c= 6.
 -[]a = 5, b = 5 e c= 5.
 -[]a = 4, b = 3 e c= 2.
