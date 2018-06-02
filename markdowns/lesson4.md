@@ -44,12 +44,27 @@ Para que o comando **printf** exiba qualquer **valor numérico** é obrigatório
 Caracteres de formatação são formados pelo simbolo % seguido de uma letra que representa o tipo de dado que se quer exibir:
 %d - variáveis e valores do tipo int
 %f - variáveis e valores do tipo float 
-%s - variáveis e valores do tipo string
+%c - variáveis e valores do tipo char
 
 obs: existem outros caracteres de formatação que apresentaremos a medida que necessitarmos.
 
 ```
 
+```C runnable
+ #include<stdio.h> //Obrigatório para executar o comando printf
+ int main(){
+    int   a = -767;
+          b = 1000;
+    float c = 3.20;
+    char  l = 'a';
+        
+  printf("\n%d", a);              //  '\n' inicia a impressão numa nova linha
+  printf("\n b = %d",b);         // exibe o texto b = seguido do valor da variável b
+  printf("\n result= %f", c*2); // exibe o valor de c multiplicado por 2
+  printf("\n l = ", l);         // exibe o caracter a    
+    
+ }
+``` 
 # Operações Aritméticas
 Em C , nós podemos executar operações aritméticas usando variáveis e constantes como operandos separados pelos operadores aritméticos. Os operadores aritméticos em C são:
 
