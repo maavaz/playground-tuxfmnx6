@@ -3,7 +3,7 @@ cover: /cover.png
 plan:
 - title: Curso Programação C - Prof. MARCO VAZ
 plan:
-- title: Primeiro Capítulo
+- title: Conceitos Básicos
   description: Esta é a descrição do primeiro capítulo.
   plan:
   - title: Introdução a Programação C
@@ -16,3 +16,8 @@ plan:
     statement: /markdowns/lesson4.md
   - title: Testando os Conhecimentos
     statement: /markdowns/Quiz_lesson4.md
+- title: Programando com C 
+  description: Aprendendo a programar.
+  plan:
+  - title: Processamento Sequencial
+    statement: markdowns/lesson5.md
