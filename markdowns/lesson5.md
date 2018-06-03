@@ -8,7 +8,7 @@ Além disso, o comando também utiliza os caracteres de formatação para a(s) v
  int main(){
     int x;
     printf("Digite um valor inteiro");
-    scanf("%d", &x);  <------ Após o ususário digitar um valor inteiro no teclado, esse é movido para a variável x
+    scanf("%d", &x);  <------ <strong>Após o ususário digitar um valor inteiro no teclado, esse é movido para a variável x</strong>
     printf("Você digitou: %d", x);
  }
 ``` 
