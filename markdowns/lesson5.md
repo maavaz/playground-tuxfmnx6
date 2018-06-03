@@ -11,7 +11,7 @@ Além disso, o comando também utiliza os caracteres de formatação para a(s) v
     scanf("%d", &x);
  }
 ``` 
-O comando scanf move o valor digitado pelo usuário (teclado) para dentro da variável associada. É obrigatório o uso do caracte <strong>&(E comercial)</strong> na frente da variável que irá receber o valor digitado.
+O comando <strong>scanf</strong> move o valor digitado pelo usuário (teclado) para dentro da variável associada. É obrigatório o uso do caracter <strong>&(E comercial)</strong> na frente da variável que irá receber o valor digitado.
 
 
 # Processamento Sequencial
