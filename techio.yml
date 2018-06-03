@@ -21,3 +21,9 @@ plan:
   plan:
   - title: Processamento Sequencial
     statement: markdowns/lesson5.md
+projects:
+  cpp:
+    root: /cpp-project
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
