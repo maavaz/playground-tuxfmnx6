@@ -4,11 +4,11 @@ Semelhantemente ao comando de saída (<strong>printf</strong>), para execução 
 Além disso, o comando também utiliza os caracteres de formatação para a(s) variável(eis) associada(s). A seguir, exibimos um exemplo do comando <strong>scanf()</strong>:
 
 ```
- #include<stdio.h> //Obrigatório para executar os comandos scanf e printf
+ #include<stdio.h> 
  int main(){
     int x;
     printf("Digite um valor inteiro");
-    scanf("%d", &x);  <-------------- Após o ususário digitar um valor inteiro no teclado, esse é movido para a variável x
+    scanf("%d", &x);  <------ Após o ususário digitar um valor inteiro no teclado, esse é movido para a variável x
     printf("Você digitou: %d", x);
  }
 ``` 
