@@ -15,8 +15,6 @@ Além disso, o comando também utiliza os caracteres de formatação para a(s) v
 ``` 
 O comando <strong>scanf</strong> move o valor digitado pelo usuário (teclado) para dentro da variável associada. É obrigatório o uso do caracter <strong>&(E comercial)</strong> na frente da variável que irá receber o valor digitado.
 
-'@[Entrada de Dados]({"stubs": ["comandoentrada.cpp"],"command": "sh /project/target/run.sh"})
-
 # Processamento Sequencial
 Cada instrução/comando em um programa é executado sequencialmente (de cima para baixo) do início ao fim. A figura abaixo representa a execução de um programa C representando o processamento sequencial.
 
