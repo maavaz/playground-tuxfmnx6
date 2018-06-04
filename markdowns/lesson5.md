@@ -17,6 +17,8 @@ O comando <strong>scanf</strong> move o valor digitado pelo usuário (teclado) p
 
 OBS: Para realizar os testes e exercícios de programação sugerimos utilizar o IDE <strong>DEVC++</strong> (https://sourceforge.net/projects/orwelldevcpp/files/latest/download).
 
+TECHIO> terminal -s, --shell </bin/bash
+
 # Processamento Sequencial
 Os comandos/instruções em um programa C são executados um após o outro, na seqüência escrita (de cima para baixo) do início ao fim. A figura abaixo representa um exemplo de execução de um programa C representando o processamento sequencial.
 
