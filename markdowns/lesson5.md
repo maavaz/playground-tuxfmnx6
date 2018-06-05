@@ -17,7 +17,7 @@ O comando <strong>scanf</strong> move o valor digitado pelo usuário (teclado) p
 
 OBS: Para realizar os testes e exercícios de programação sugerimos utilizar o IDE <strong>DEVC++</strong> (https://sourceforge.net/projects/orwelldevcpp/files/latest/download).
 
-@[Entrada de Dados]({"stubs": ["comandoentrada.cpp"],"command": "sh /project/run.sh"})
+@[Entrada de Dados]({"stubs": ["comandoentrada.cpp"],"command": "sh /cpp-project/run.sh"})
 
 
 # Processamento Sequencial
