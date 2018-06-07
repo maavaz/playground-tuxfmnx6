@@ -52,4 +52,4 @@ Considerando um programa iniciado pelos comandos:
 -[]a = 5, b = 5 e c= 5.
 -[]a = 4, b = 3 e c= 2.
 -[x]a = 4, b = 4 e c= 4.
-
+```
