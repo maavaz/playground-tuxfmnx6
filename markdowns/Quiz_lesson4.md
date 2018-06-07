@@ -34,7 +34,7 @@ return 0;
 -[]d e c;
 -[x]d e f;
 -[]f e c;
-
+```
 
 ```
 Considerando um programa iniciado pelos comandos:
