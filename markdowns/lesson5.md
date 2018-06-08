@@ -4,18 +4,22 @@ O funcionamento da função <strong>scanf()</strong> é parecido com o funcionam
 Semelhantemente ao <strong>printf</strong>, para execução do comando de entrada é obrigatória a presença da diretiva: <strong>#include<stdio.h></strong>. <br />
 Além disso, o comando também utiliza os caracteres de formatação para a(s) variável(eis) associada(s). A seguir, exibimos um exemplo do comando <strong>scanf()</strong>:
 
-```C runnable
- (#include<stdio.h> 
+```
+ #include<stdio.h> 
  int main(){
     int x;
     printf("Digite um valor inteiro");
-    scanf("%d", &x);  //<------ Após o ususário digitar um valor inteiro no teclado, esse é movido para a variável x
-    printf("Você digitou: %d", x);)
+    scanf("%d", &x);  <------ Após o ususário digitar um valor inteiro no teclado, esse é movido para a variável x
+    printf("Você digitou: %d", x);
  }
 ``` 
 O comando <strong>scanf</strong> move o valor digitado pelo usuário (teclado) para dentro da variável associada. É obrigatório o uso do caracter <strong>&(E comercial)</strong> na frente da variável que irá receber o valor digitado.
 
 OBS: Para realizar os testes e exercícios de programação sugerimos utilizar o IDE <strong>DEVC++</strong> (https://sourceforge.net/projects/orwelldevcpp/files/latest/download).
+
+```
+Por questões de limitações da ferramenta o comando <Strong> Scanf()</strong> não pode ser executado. Portanto, esse comando sempre aparecerá como comentário (você pode executr o programa no IDE DEV C++) e, quando for necessário a entrada de dados, utilizaremos o comando de atribuição para mover os valores desejados (<strong> esse valores podem ser modificados por você antes da execução!!!</strong>)  
+```
 
 @[Entrada de Dados]({"stubs": ["comandoentrada.cpp"],"command": "sh /project/target/run.sh"})
 
