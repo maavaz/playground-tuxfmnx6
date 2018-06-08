@@ -23,8 +23,10 @@ No exemplo abaixo o comando <strong>scanf("%d", &x);</strong> está sendo substi
 <strong>Vamos tentar?</strong>
 [Entrada de Dados](https://repl.it/@MarcoVaz/Entrada-de-Dados)
 
+```
+HTML
 <iframe height="400px" width="100%" src="https://repl.it/@MarcoVaz/Entrada-de-Dados?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
-
+```
 
 @[Entrada de Dados]({"stubs": ["comandoentrada.cpp"],"command": "sh /project/target/run.sh"})
 
