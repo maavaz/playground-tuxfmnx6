@@ -17,9 +17,8 @@ O comando <strong>scanf</strong> move o valor digitado pelo usuário (teclado) p
 
 OBS: Para realizar os testes e exercícios de programação sugerimos utilizar o IDE <strong>DEVC++</strong> (https://sourceforge.net/projects/orwelldevcpp/files/latest/download).
 
-```
-Por questões de limitações da ferramenta o comando <Strong> Scanf()</strong> não pode ser executado. Portanto, esse comando sempre aparecerá como comentário (você pode executr o programa no IDE DEV C++) e, quando for necessário a entrada de dados, utilizaremos o comando de atribuição para mover os valores desejados (<strong> esse valores podem ser modificados por você antes da execução!!!</strong>)  
-```
+<strong>ATENÇÃO:</strong> Por questões de limitações da ferramenta o comando <Strong> Scanf()</strong> não pode ser executado. Portanto, esse comando sempre aparecerá como comentário (você pode executr o programa no IDE DEV C++) e, quando for necessário a entrada de dados, utilizaremos o comando de atribuição para mover os valores desejados (<strong> esse valores podem ser modificados por você antes da execução!!!</strong>)  
+
 
 @[Entrada de Dados]({"stubs": ["comandoentrada.cpp"],"command": "sh /project/target/run.sh"})
 
