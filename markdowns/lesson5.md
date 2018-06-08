@@ -24,7 +24,7 @@ No exemplo abaixo o comando <strong>scanf("%d", &x);</strong> está sendo substi
 [Entrada de Dados](https://repl.it/@MarcoVaz/Entrada-de-Dados)
 
 @[]({
-  "stubs": ["entradadedados.html"],
+  "stubs": ["/project/target/www/entradadedados.html"],
   "command": "open -s /project/target/www/HelloWorld.html"
 })
   console.log('TECHIO> open -s /project/target/www HelloWorld.html');
