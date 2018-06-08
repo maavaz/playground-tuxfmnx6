@@ -23,15 +23,14 @@ No exemplo abaixo o comando <strong>scanf("%d", &x);</strong> está sendo substi
 <strong>Vamos tentar?</strong>
 [Entrada de Dados](https://repl.it/@MarcoVaz/Entrada-de-Dados)
 
-```
-HTML
+<HTML>
 <iframe height="400px" width="100%" src="https://repl.it/@MarcoVaz/Entrada-de-Dados?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
-```
+</HTML>
 
 @[Entrada de Dados]({"stubs": ["comandoentrada.cpp"],"command": "sh /project/target/run.sh"})
 
 
-<iframe style="border: 0;" src="WEB Site" width="400px" height="600px" frameborder="0" scrolling="no"></iframe>
+
 
 # Processamento Sequencial
 Os comandos/instruções em um programa C são executados um após o outro, na seqüência escrita (de cima para baixo) do início ao fim. A figura abaixo exibe um exemplo de execução de um programa C representando o processamento sequencial.
