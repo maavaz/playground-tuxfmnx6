@@ -24,7 +24,7 @@ No exemplo abaixo o comando <strong>scanf("%d", &x);</strong> está sendo substi
 [Entrada de Dados](https://repl.it/@MarcoVaz/Entrada-de-Dados)
 
 it('teste', function () {
-  console.log('TECHIO> open -s /project/target/www HelloWorld.html');
+  console.log('TECHIO> open -s /project/target/www HelloWorld.html');}
 
 <HTML>
 <iframe height="400px" width="100%" src="https://repl.it/@MarcoVaz/Entrada-de-Dados?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
