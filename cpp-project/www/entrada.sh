@@ -1,1 +1,1 @@
-cd /project/target/www && ./entradadedados.html
+cd /project/target/www && ./open -s ./entradadedados.html
