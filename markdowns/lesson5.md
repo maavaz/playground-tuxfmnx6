@@ -4,7 +4,7 @@ O funcionamento da função <strong>scanf()</strong> é parecido com o funcionam
 Semelhantemente ao <strong>printf</strong>, para execução do comando de entrada é obrigatória a presença da diretiva: <strong>#include<stdio.h></strong>. <br />
 Além disso, o comando também utiliza os caracteres de formatação para a(s) variável(eis) associada(s). A seguir, exibimos um exemplo do comando <strong>scanf()</strong>:
 
-```
+```C runnable
  #include<stdio.h> 
  int main(){
     int x;
@@ -17,7 +17,7 @@ O comando <strong>scanf</strong> move o valor digitado pelo usuário (teclado) p
 
 OBS: Para realizar os testes e exercícios de programação sugerimos utilizar o IDE <strong>DEVC++</strong> (https://sourceforge.net/projects/orwelldevcpp/files/latest/download).
 
-(@[Entrada de Dados]({"stubs": ["comandoentrada.cpp"],"command": "sh /project/target/run.sh"}))
+@[Entrada de Dados]({"stubs": ["comandoentrada.cpp"],"command": "sh /project/target/run.sh"})
 
 
 # Processamento Sequencial
