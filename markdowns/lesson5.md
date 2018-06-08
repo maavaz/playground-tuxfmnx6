@@ -5,12 +5,12 @@ Semelhantemente ao <strong>printf</strong>, para execução do comando de entrad
 Além disso, o comando também utiliza os caracteres de formatação para a(s) variável(eis) associada(s). A seguir, exibimos um exemplo do comando <strong>scanf()</strong>:
 
 ```C runnable
- #include<stdio.h> 
+ (#include<stdio.h> 
  int main(){
     int x;
     printf("Digite um valor inteiro");
-    scanf("%d", &x);  <------ Após o ususário digitar um valor inteiro no teclado, esse é movido para a variável x
-    printf("Você digitou: %d", x);
+    scanf("%d", &x);  //<------ Após o ususário digitar um valor inteiro no teclado, esse é movido para a variável x
+    printf("Você digitou: %d", x);)
  }
 ``` 
 O comando <strong>scanf</strong> move o valor digitado pelo usuário (teclado) para dentro da variável associada. É obrigatório o uso do caracter <strong>&(E comercial)</strong> na frente da variável que irá receber o valor digitado.
