@@ -23,7 +23,10 @@ No exemplo abaixo o comando <strong>scanf("%d", &x);</strong> está sendo substi
 <strong>Vamos tentar?</strong>
 [Entrada de Dados](https://repl.it/@MarcoVaz/Entrada-de-Dados)
 
-
+@[]({
+  "stubs": ["/project/target/www/HelloWorld.html"],
+  "command": "open -s"
+})
   console.log('TECHIO> open -s /project/target/www HelloWorld.html');
 
 <HTML>
