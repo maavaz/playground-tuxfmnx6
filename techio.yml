@@ -19,8 +19,10 @@ plan:
 - title: Programando com C 
   description: Aprendendo a programar.
   plan:
-  - title: Processamento Sequencial
+  - title: Entrada de Dados
     statement: markdowns/lesson5.md
+  - title: Processamento Sequencial
+    statement: markdowns/lesson6.md  
 projects:
   cpp:
     root: /cpp-project
