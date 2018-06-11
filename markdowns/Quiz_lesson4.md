@@ -6,17 +6,11 @@
 -[x]char letra;<br/> int numero1;<br/> float numero2;
 -[ ] int letra;<br/> char numero1;<br/> char numero2;              
 
-?[What is the answer to Life, the Universe and Everything?]
--[ ] There is no answer to that!
--[ ] Sleep and eat
--[x] Easy, this is 42
--[ ] Peace & Love
-
-?[Qual a sintaxe correta para declaração de uma variável?](single)
--[]tipo variável!
+?[Qual a sintaxe correta para declaração de uma variável?]
+-[ ]tipo variável!
 -[x]tipo variável;
--[]variável tipo;
--[]tipo = variável;
+-[ ]variável tipo;
+-[ ]tipo = variável;
 
 
 ```C runnable
@@ -36,11 +30,11 @@ return 0;
 }
 ```
 
-?[Para que o programa acima possa exibir o conteúdo das variáveis soma e divisao corretamente, que caracteres de formatação devem ser colocados no lugar do caracter interrogação? *substitua os caracteres acima para executar o programa e depois responda a essa pergunta](single)
--[] a e b
--[]d e c
+?[Para que o programa acima possa exibir o conteúdo das variáveis soma e divisao corretamente, que caracteres de formatação devem ser colocados no lugar do caracter interrogação? *substitua os caracteres acima para executar o programa e depois responda a essa pergunta]
+-[ ] a e b
+-[ ]d e c
 -[x]d e f
--[]f e c
+-[ ]f e c
 
 
 ```
@@ -54,9 +48,9 @@ Considerando um programa iniciado pelos comandos:
              b  = (b / 2) + 2;
              c  = c / ( a / 2);
 ```		     
-?[informe os valores que estarão contidos nas variáveis a, b, c após a execução do trecho de comandos, acima:](single)
--[]a = 4, b = 5 e c= 6.
--[]a = 5, b = 5 e c= 5.
--[]a = 4, b = 3 e c= 2.
+?[informe os valores que estarão contidos nas variáveis a, b, c após a execução do trecho de comandos, acima:]
+-[ ]a = 4, b = 5 e c= 6.
+-[ ]a = 5, b = 5 e c= 5.
+-[ ]a = 4, b = 3 e c= 2.
 -[x]a = 4, b = 4 e c= 4.
 
