@@ -1,8 +1,9 @@
 # Entrada de Dados
-A entrada de dados permite que um programa possa receber dados vindo de dispositivos de entrada (pex. teclado, disco). 
-`scanf()` tem a função de mover para a variável associada ao comando, os valores digitados no teclado.
-Semelhantemente ao <strong>printf</strong>, para execução do comando de entrada é obrigatória a presença da diretiva: <strong>#include<stdio.h></strong>. <br />
-O comando `scanf()`também utiliza os caracteres de formatação para a(s) variável(eis) associada(s). 
++ A entrada de dados permite que um programa possa receber dados vindo de dispositivos de entrada (pex. teclado, disco). 
++ `scanf()` tem a função de mover para a variável associada ao comando, os valores digitados no teclado.
++ Para execução do comando de entrada é obrigatória a presença da diretiva: <strong>#include<stdio.h></strong>. 
++ O comando `scanf()`também utiliza os caracteres de formatação para a(s) variável(eis) associada(s). <br />
+
 A seguir, exibimos um exemplo do comando <strong>scanf()</strong>:https://tech.io/snippet
 
 ```
