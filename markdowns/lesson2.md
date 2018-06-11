@@ -44,8 +44,8 @@ Programas C tem a seguinte estrutura geral:
 ![Anatomia](/markdowns/anatomiaC.png)
 
 <ul>
-  <li><strong>biblioteca de funções C</strong> - correspondem a definições que dizem respeito a operações realizadas pelo compilador para geração de código correpondente ao arquivo indicado (pex. sdtio.h). Geralmente iniciam com uma cerquilha (#) e não são comandos da linguagem C.</li>
-<li><strong>cabeçalho do programa principal</strong> - main() é a função principal de um programa em C, contendo o código que será inicialmente executado quando o programa em si for executado. Todo programa em C deve conter a função main(), do contrário será gerado um erro durante o processo de geração do programa (mais especificamente, na etapa de ligação).</li>
-<li><strong>Declaração de variáveis</strong> - A declaração de variável é feita quando é necessário manipular dados no programa. Para se declarar uma variável é necessário associá-la a um tipo de dados.</li>
+  <li><strong>biblioteca de funções C</strong> - correspondem a definições utilizadas pelo compilador para geração de código correpondente ao arquivo indicado (pex. sdtio.h). Geralmente iniciam com uma cerquilha (#) e não são comandos da linguagem C.</li>
+<li><strong>cabeçalho do programa principal</strong> - Todo programa em C deve conter a função main(), que será inicialmente executada.</li>
+<li><strong>Declaração de variáveis</strong> - A declaração das variáveis é feita quando o programa necessita manipular dados. Para se declarar uma variável é necessário associá-la a um tipo de dados.</li>
 <li><strong>área de código/comandos</strong> -  área onde escrevemos os comandos da linguagem para a solução dos problemas</li>
 </ul>  
