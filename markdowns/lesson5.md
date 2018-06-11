@@ -24,4 +24,4 @@ OBS: Para realizar os testes e exercícios de programação sugerimos utilizar o
 @[IDE]({"stubs": ["./www/ExemploEntrada"],"command": "sh /project/target/www/entrada.sh"
 })
 
-
+@[IDE]({"command": "sh /project/target/www/entrada.sh"})
