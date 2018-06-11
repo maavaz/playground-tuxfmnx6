@@ -30,7 +30,7 @@ return 0;
 }
 ```
 
-?[Para que o programa acima possa exibir o conteúdo das variáveis soma e divisao corretamente, que caracteres de formatação devem ser colocados no lugar do caracter interrogação? *substitua os caracteres acima para executar o programa e depois responda a essa pergunta](single)
+?[Para que o programa acima possa exibir o conteúdo das variáveis soma e divisao corretamente, que caracteres de formatação devem ser colocados no lugar do caracter interrogação? *substitua os caracteres acima para executar o programa e depois responda a essa pergunta]
 -[ ] a e b
 -[ ]d e c
 -[x]d e f
