@@ -1,1 +1,1 @@
-echo "TECHIO> open -s  ./www/HelloWorld.html"
+echo "TECHIO> open -s  ./www HelloWorld.html"
