@@ -1,3 +1,5 @@
-Ao apertar o Botão RUN, você verá uma IDE de programação, onde você poderá testar o programa exemplo. Pode fazer modificações e testar
-novamente. 
-Ao lado direito é exibida a janela de execução.
+O código apresentado mostra a execução do comando de entrada <scanf>. 
+A execução do comando acontece da seguinte forma:
+    - O comando aguarda você digitar um valor numérico inteiro ( Variável x associada ao comando é do tipo int).
+    - Após digitar um número qualquer e apertar a tecla <ENTER>, o valor digitado por você é movido para a variável x.
+    - O comando <printf> exibe o conteúdo da variável x contendo o valor digitado por você.
