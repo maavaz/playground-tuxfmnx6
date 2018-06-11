@@ -28,7 +28,7 @@ No exemplo abaixo o comando <strong>scanf("%d", &x);</strong> está sendo substi
   "command": "open -s /project/target/www/entradadedados.html"
 })
 
-
+<p><script src="//repl.it/embed/MgdL/0.js"></script></p>
   console.log('TECHIO> open -s /project/target/www HelloWorld.html');
 
 <HTML>
