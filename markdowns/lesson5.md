@@ -17,8 +17,6 @@ A seguir, exibimos um exemplo do comando <strong>scanf()</strong>:
 +O comando <strong>scanf</strong> move o valor digitado pelo usuário (teclado) para dentro da variável associada. 
 +É obrigatório o uso do caracter <strong>&(E comercial)</strong> na frente da variável que irá receber o valor digitado.
 
-OBS: Para realizar os testes e exercícios de programação sugerimos utilizar o IDE <strong>DEVC++</strong> (https://sourceforge.net/projects/orwelldevcpp/files/latest/download).
-
 <strong>ATENÇÃO:</strong> Os <strong>"Snippets"</strong> denominados <strong>"IDE"</strong> exibem um interpretador interativo online (https://repl.it/) para que você aluno execute e modifique os exemplos disponibilizados, além de permitir que faça os exercícios apresentados.
 
 <strong>Vamos tentar?</strong>
