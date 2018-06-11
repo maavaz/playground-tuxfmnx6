@@ -1,7 +1,8 @@
 # O que é um Programa de Computador?
 
-Um programa de computador é um conjunto de instruções escrito numa linguagem de programação que representa um algoritmo para a resolução de algum problema. 
-Estas instruções são escritas através de um conjunto de códigos (símbolos e palavras) que formam a linguagem de programação. Este conjunto de códigos possui regras de estruturação lógica e sintática própria. 
++ Um programa de computador é um conjunto de instruções escrito numa linguagem de programação representando a resolução de algum problema (algoritmo). 
++ As instruções são escritas através de um conjunto de códigos (símbolos e palavras) que formam a linguagem de programação. 
++ Esse conjunto de códigos possui regras de estruturação lógica e sintática própria. 
 
 # Algoritmo X Programa C
 
