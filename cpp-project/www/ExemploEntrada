@@ -1,4 +1,5 @@
-O código apresentado mostra a execução do comando de entrada <scanf>. 
+Para exibição do IDE, selecione a tecla <RUN> abaixo.
+Após ativado, o IDE exibe um programa exemplo para exibir o funcionamento do comando de entrada <scanf>. 
 A execução do comando acontece da seguinte forma:
     - O comando aguarda você digitar um valor numérico inteiro ( Variável x associada ao comando é do tipo int).
     - Após digitar um número qualquer e apertar a tecla <ENTER>, o valor digitado por você é movido para a variável x.
