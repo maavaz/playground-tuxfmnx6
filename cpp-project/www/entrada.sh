@@ -1,1 +1,1 @@
-trecho "TECHIO> open -s  entradadedados.html"
+trecho "TECHIO> open -s /project/target/www helloworld.html"
