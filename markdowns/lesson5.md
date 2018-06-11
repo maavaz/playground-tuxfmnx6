@@ -2,10 +2,9 @@
 + A entrada de dados permite que um programa possa receber dados vindo de dispositivos de entrada (pex. teclado, disco). 
 + `scanf()` tem a função de mover para a variável associada ao comando, os valores digitados no teclado.
 + Para execução do comando de entrada é obrigatória a presença da diretiva: <strong>#include<stdio.h></strong>. 
-+ O comando `scanf()`também utiliza os caracteres de formatação para a(s) variável(eis) associada(s). <br />
++ O comando `scanf()` utiliza os caracteres de formatação para representar os tipos de dados dos valores que deverão ser digitados. <br />
 
-A seguir, exibimos um exemplo do comando <strong>scanf()</strong>:https://tech.io/snippet
-
+A seguir, exibimos um exemplo do comando <strong>scanf()</strong>:
 ```
  #include<stdio.h> 
  int main(){
@@ -15,7 +14,8 @@ A seguir, exibimos um exemplo do comando <strong>scanf()</strong>:https://tech.i
     printf("Você digitou: %d", x);
  }
 ``` 
-O comando <strong>scanf</strong> move o valor digitado pelo usuário (teclado) para dentro da variável associada. É obrigatório o uso do caracter <strong>&(E comercial)</strong> na frente da variável que irá receber o valor digitado.
++O comando <strong>scanf</strong> move o valor digitado pelo usuário (teclado) para dentro da variável associada. 
++É obrigatório o uso do caracter <strong>&(E comercial)</strong> na frente da variável que irá receber o valor digitado.
 
 OBS: Para realizar os testes e exercícios de programação sugerimos utilizar o IDE <strong>DEVC++</strong> (https://sourceforge.net/projects/orwelldevcpp/files/latest/download).
 
