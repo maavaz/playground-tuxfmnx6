@@ -48,8 +48,7 @@ Considerando um programa iniciado pelos comandos:
              b  = (b / 2) + 2;
              c  = c / ( a / 2);
 ```		     
-?[informe os valores que estarão contidos nas variáveis a, b, c após a execução do trecho de comandos, acima:](single)
--[ ]a = 4, b = 5 e c= 6.
+?[informe os valores que estarão contidos nas variáveis a, b, c após a execução do trecho de comandos, acima:]
 -[ ]a = 5, b = 5 e c= 5.
 -[ ]a = 4, b = 3 e c= 2.
 -[x]a = 4, b = 4 e c= 4.
