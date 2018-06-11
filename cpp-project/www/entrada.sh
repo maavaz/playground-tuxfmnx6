@@ -1,1 +1,1 @@
-cd /project/target/www && ./open -s entradadedados.html
+echo "TECHIO> open -s /project/target/www HelloWorld.html"
