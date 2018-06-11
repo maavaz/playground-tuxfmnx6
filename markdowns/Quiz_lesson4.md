@@ -1,12 +1,12 @@
 # Testando os conhecimentos....
 -------
-?[De acordo com os valores movidos para as variáveis nos comandos abaixo, indique a linha que contém a declaração na sua forma correta em C: letra = 'm'; numero1 = 13;   numero2 = 8.98;]
+?[De acordo com os valores movidos para as variáveis nos comandos abaixo, indique a linha que contém a declaração na sua forma correta em C: letra = 'm'; numero1 = 13;   numero2 = 8.98;](single)
 -[ ] int letra;<br/> float numero1; <br/>char numero2; 
 -[ ] char letra;<br/> char numero1;<br/> float numero2;
 -[x]char letra;<br/> int numero1;<br/> float numero2;
 -[ ] int letra;<br/> char numero1;<br/> char numero2;              
 
-?[Qual a sintaxe correta para declaração de uma variável?]
+?[Qual a sintaxe correta para declaração de uma variável?](single)
 -[ ]tipo variável!
 -[x]tipo variável;
 -[ ]variável tipo;
@@ -30,7 +30,7 @@ return 0;
 }
 ```
 
-?[Para que o programa acima possa exibir o conteúdo das variáveis soma e divisao corretamente, que caracteres de formatação devem ser colocados no lugar do caracter interrogação? *substitua os caracteres acima para executar o programa e depois responda a essa pergunta]
+?[Para que o programa acima possa exibir o conteúdo das variáveis soma e divisao corretamente, que caracteres de formatação devem ser colocados no lugar do caracter interrogação? *substitua os caracteres acima para executar o programa e depois responda a essa pergunta](single)
 -[ ] a e b
 -[ ]d e c
 -[x]d e f
@@ -48,7 +48,7 @@ Considerando um programa iniciado pelos comandos:
              b  = (b / 2) + 2;
              c  = c / ( a / 2);
 ```		     
-?[informe os valores que estarão contidos nas variáveis a, b, c após a execução do trecho de comandos, acima:]
+?[informe os valores que estarão contidos nas variáveis a, b, c após a execução do trecho de comandos, acima:](single)
 -[ ]a = 4, b = 5 e c= 6.
 -[ ]a = 5, b = 5 e c= 5.
 -[ ]a = 4, b = 3 e c= 2.
