@@ -22,7 +22,7 @@ No exemplo abaixo o comando <strong>scanf("%d", &x);</strong> está sendo substi
 
 <strong>Vamos tentar?</strong>
 
-@[exemplo de Entrada de Dados utilizando a função Scanf]({"stubs": ["ExemploEntrada"],"command": "sh /project/target/www/entrada.sh"
+@[Entrada de Dados utilizando a função Scanf]({"stubs": ["ExemploEntrada"],"command": "sh /project/target/www/entrada.sh"
 })
 
 
