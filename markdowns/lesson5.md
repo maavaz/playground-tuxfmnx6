@@ -26,7 +26,7 @@ No exemplo abaixo o comando <strong>scanf("%d", &x);</strong> está sendo substi
 @[]({
   "stubs": ["entradadedados.html"],"command": "open -s /project/target/www/entradadedados.html"
 })
-@[teste]({"stubs": [""],"command": "sh /project/target/www/entrada.sh"
+@[teste]({"stubs": ["entradadedados.html"],"command": "sh /project/target/www/entrada.sh"
 })
 
 <p><script src="//repl.it/embed/MgdL/0.js"></script></p>
