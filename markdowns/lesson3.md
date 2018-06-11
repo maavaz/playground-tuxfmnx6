@@ -57,7 +57,7 @@ Exemplos:
 
 
 #Vamos Praticar
-?[Assinalar com um X os nomes válidos (identificadores) para as variáveis abaixo:]
+?[Assinalar com um X os nomes válidos (identificadores) para as variáveis abaixo:] (multile)
 - [ ] ‘matricula’
 - [X] total_2
 - [ ] lal-55-ab
