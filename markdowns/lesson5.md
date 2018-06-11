@@ -2,7 +2,7 @@
 A entrada de dados permite que um programa possa receber dados vindo de fora (pex. teclado, disco). A partir do teclado, é comum a utilização da comando (função) <strong>scanf()</strong> que tem por objetivo, enviar para o programa todos os caracteres digitados no teclado  para dentro de uma variável associada ao <strong>scanf()</strong>. Assim, temos a entrada de dados mais primitiva do C, porém, bastante funcional. <br />
 O funcionamento da função <strong>scanf()</strong> é parecido com o funcionamento da função <strong>printf()</strong> que nós já estudamos. A principal diferença é que agora estamos manipulando o fluxo de entrada de dados, enquanto que com a <strong>função printf()</strong>, estávamos manipulando a saída de informações, ou seja, o Fluxo de Saída.<br />
 Semelhantemente ao <strong>printf</strong>, para execução do comando de entrada é obrigatória a presença da diretiva: <strong>#include<stdio.h></strong>. <br />
-Além disso, o comando também utiliza os caracteres de formatação para a(s) variável(eis) associada(s). A seguir, exibimos um exemplo do comando <strong>scanf()</strong>:
+Além disso, o comando também utiliza os caracteres de formatação para a(s) variável(eis) associada(s). A seguir, exibimos um exemplo do comando <strong>scanf()</strong>:https://tech.io/snippet
 
 ```
  #include<stdio.h> 
@@ -17,12 +17,11 @@ O comando <strong>scanf</strong> move o valor digitado pelo usuário (teclado) p
 
 OBS: Para realizar os testes e exercícios de programação sugerimos utilizar o IDE <strong>DEVC++</strong> (https://sourceforge.net/projects/orwelldevcpp/files/latest/download).
 
-<strong>ATENÇÃO:</strong> Por questões de limitações da ferramenta o comando <Strong> Scanf()</strong> não pode ser executado. Portanto, esse comando sempre aparecerá como comentário (você pode executar o programa no IDE DEV C++) e, quando for necessário a entrada de dados, utilizaremos o comando de atribuição para mover os valores desejados.
-No exemplo abaixo o comando <strong>scanf("%d", &x);</strong> está sendo substituído pelo comando <strong>x = 10;</strong>. (<strong> esse valor (10) pode ser modificado por você antes da execução!!!</strong>).
+<strong>ATENÇÃO:</strong> Os <strong>"Snippets"</strong> denominados <strong>"IDE"</strong> exibem um interpretador interativo online (https://repl.it/) para que você aluno execute e modifique os exemplos disponibilizados, além de permitir que faça os exercícios apresentados.
 
 <strong>Vamos tentar?</strong>
 
-@[Entrada de Dados utilizando a função Scanf]({"stubs": ["./www/ExemploEntrada"],"command": "sh /project/target/www/entrada.sh"
+@[IDE]({"stubs": ["./www/ExemploEntrada"],"command": "sh /project/target/www/entrada.sh"
 })
 
 
