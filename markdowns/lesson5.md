@@ -1,8 +1,9 @@
 # Entrada de Dados
-A entrada de dados permite que um programa possa receber dados vindo de fora (pex. teclado, disco). A partir do teclado, é comum a utilização da comando (função) <strong>scanf()</strong> que tem por objetivo, enviar para o programa todos os caracteres digitados no teclado  para dentro de uma variável associada ao <strong>scanf()</strong>. Assim, temos a entrada de dados mais primitiva do C, porém, bastante funcional. <br />
-O funcionamento da função <strong>scanf()</strong> é parecido com o funcionamento da função <strong>printf()</strong> que nós já estudamos. A principal diferença é que agora estamos manipulando o fluxo de entrada de dados, enquanto que com a <strong>função printf()</strong>, estávamos manipulando a saída de informações, ou seja, o Fluxo de Saída.<br />
+A entrada de dados permite que um programa possa receber dados vindo de dispositivos de entrada (pex. teclado, disco). 
+`scanf()` tem a função de mover para a variável associada ao comando, os valores digitados no teclado.
 Semelhantemente ao <strong>printf</strong>, para execução do comando de entrada é obrigatória a presença da diretiva: <strong>#include<stdio.h></strong>. <br />
-Além disso, o comando também utiliza os caracteres de formatação para a(s) variável(eis) associada(s). A seguir, exibimos um exemplo do comando <strong>scanf()</strong>:https://tech.io/snippet
+O comando `scanf()`também utiliza os caracteres de formatação para a(s) variável(eis) associada(s). 
+A seguir, exibimos um exemplo do comando <strong>scanf()</strong>:https://tech.io/snippet
 
 ```
  #include<stdio.h> 
@@ -24,4 +25,3 @@ OBS: Para realizar os testes e exercícios de programação sugerimos utilizar o
 @[IDE]({"stubs": ["./www/ExemploEntrada"],"command": "sh /project/target/www/entrada.sh"
 })
 
-@[IDE]({"command": "sh /project/target/www/entrada.sh"})
