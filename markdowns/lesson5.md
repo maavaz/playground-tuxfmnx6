@@ -21,18 +21,8 @@ OBS: Para realizar os testes e exercícios de programação sugerimos utilizar o
 No exemplo abaixo o comando <strong>scanf("%d", &x);</strong> está sendo substituído pelo comando <strong>x = 10;</strong>. (<strong> esse valor (10) pode ser modificado por você antes da execução!!!</strong>).
 
 <strong>Vamos tentar?</strong>
-[Entrada de Dados](https://repl.it/@MarcoVaz/Entrada-de-Dados)
 
-
-@[teste]({"stubs": ["ExemploEntrada"],"command": "sh /project/target/www/entrada.sh"
+@[exemplo de Entrada de Dados utilizando a função Scanf]({"stubs": ["ExemploEntrada"],"command": "sh /project/target/www/entrada.sh"
 })
 
-<p><script src="//repl.it/embed/MgdL/0.js"></script></p>
-
- 
-
-<iframe height="400px" width="100%" src="https://repl.it/@MarcoVaz/Entrada-de-Dados?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
-
-
-@[Entrada de Dados]({"stubs": ["comandoentrada.cpp"],"command": "sh /project/target/run.sh"})
 
