@@ -3,25 +3,14 @@
 + `scanf()` tem a função de mover para a variável associada ao comando, os valores digitados no teclado.
 + Para execução do comando de entrada é obrigatória a presença da diretiva: <strong>#include<stdio.h></strong>. 
 + O comando `scanf()` utiliza os caracteres de formatação para representar os tipos de dados dos valores que deverão ser digitados. <br />
-+ 
+ 
 **SINTAXE DO COMANDO** <br />
 #### **scanf("%?", &variável);**<br />
 
-O caracter **?** pode ser substituído por:
-+ **d** quando o valor que será armazenado é numérico do tipo inteiro
-+ **f** quando o valor que será armazendao é numérico do tipo float
-+ **c** quando o valor que será armazenado é do tipo cacter alfanummérico.
-
-A seguir, exibimos um exemplo do comando <strong>scanf()</strong>:
-```
- #include<stdio.h> 
- int main(){
-    int x;
-    printf("Digite um valor inteiro");
-    scanf("%d", &x);  <------ Após o ususário digitar um valor inteiro no teclado, esse é movido para a variável x
-    printf("Você digitou: %d", x);
- }
-``` 
++ O caracter **?** pode ser substituído por:
+- **d** quando o valor que será armazenado é numérico do tipo inteiro
+- **f** quando o valor que será armazendao é numérico do tipo float
+- **c** quando o valor que será armazenado é do tipo cacter alfanummérico.
 +O comando <strong>scanf</strong> move o valor digitado pelo usuário (teclado) para dentro da variável associada. 
 +É obrigatório o uso do caracter <strong>&(E comercial)</strong> na frente da variável que irá receber o valor digitado.
 
