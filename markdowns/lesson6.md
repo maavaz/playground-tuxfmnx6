@@ -11,7 +11,7 @@
 + As soluções dos programas estão abaixo do enunciado, mas aconselhamos vê-las somente após tentar desenvolver sua própria solução. 
 
 #### Exercício 1
-###### Faça um programa C para reajustar o salário atual de um funcionário. Para isso, o programa deve ler o valor do salário e o percentual de reajuste. Calcular e escrever o valor do salário reajustado. 
+<h6>Faça um programa C para reajustar o salário atual de um funcionário. Para isso, o programa deve ler o valor do salário e o percentual de reajuste. Calcular e escrever o valor do salário reajustado.</h6> 
 :::Solução:
 ``` C
 int main() {
