@@ -3,6 +3,8 @@
 + `scanf()` tem a função de mover para a variável associada ao comando, os valores digitados no teclado.
 + Para execução do comando de entrada é obrigatória a presença da diretiva: <strong>#include<stdio.h></strong>. 
 + O comando `scanf()` utiliza os caracteres de formatação para representar os tipos de dados dos valores que deverão ser digitados. <br />
+**SINTAXE DO COMANDO**
+![scanf][markdown/scanf.png]
 
 A seguir, exibimos um exemplo do comando <strong>scanf()</strong>:
 ```
