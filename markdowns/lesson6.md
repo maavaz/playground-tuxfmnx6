@@ -3,3 +3,6 @@
 + A figura a seguir exibe a execução de um programa C representando o processamento sequencial.
 
 ![programa](/markdowns/ExecucaoProgramac.gif)
+
+
+https://www.youtube.com/watch?v=Ukg_U3CnJWI
