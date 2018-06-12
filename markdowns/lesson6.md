@@ -4,4 +4,8 @@
 
 ![programa](/markdowns/ExecucaoProgramac.gif)
 
-
+# Exercícios Processamento Sequencial
++ A melhor maneira de aprendermos a programar é fazendo exercícios. 
++ Apresentamos três enunciados de problemas que você deverá resolver utilizando a programação C.  
++ Os  programas deverão ser desenvolvidos utilizando o IDE Repl.it.
++ As respostas estão 
