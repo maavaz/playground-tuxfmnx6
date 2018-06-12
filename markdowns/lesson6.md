@@ -8,9 +8,9 @@
 + A melhor maneira de aprendermos a programar é fazendo exercícios. 
 + Apresentamos três enunciados de problemas que você deverá resolver utilizando a programação C.  
 + Os  programas deverão ser desenvolvidos utilizando o `IDE Repl.it`.
-+ As respostas estão 
++ As soluções dos programas estão abaixo do enunciado, mas aconselhamos vê-las somente após tentar desenvolver sua própria solução. 
 
 `Exercício 1`
-##### Faça um algoritmo para ler o salário atual de um funcionário e o percentual de reajuste. Calcular e escrever o valor do novo salário. 
-***Solução:***
+##### Faça um programa C para reajustar o salário atual de um funcionário. Para isso, o programa deve ler o valor do salário e o percentual de reajuste. Calcular e escrever o valor do salário reajustado. 
+:::Solução:
 
