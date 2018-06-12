@@ -4,7 +4,7 @@
 + Para execução do comando de entrada é obrigatória a presença da diretiva: <strong>#include<stdio.h></strong>. 
 + O comando `scanf()` utiliza os caracteres de formatação para representar os tipos de dados dos valores que deverão ser digitados. <br />
  
-`SINTAXE DO COMANDO` <br />
+**SINTAXE DO COMANDO** <br />
 #### **scanf("%?", &variável);**<br />
 
 + O caracter **?** deve ser substituído por:
