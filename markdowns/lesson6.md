@@ -10,7 +10,24 @@
 + Os  programas deverão ser desenvolvidos utilizando o `IDE Repl.it`.
 + As soluções dos programas estão abaixo do enunciado, mas aconselhamos vê-las somente após tentar desenvolver sua própria solução. 
 
-`Exercício 1`
+#### Exercício 1
 ##### Faça um programa C para reajustar o salário atual de um funcionário. Para isso, o programa deve ler o valor do salário e o percentual de reajuste. Calcular e escrever o valor do salário reajustado. 
 :::Solução:
+``` c
+int main() {
 
+  float salario_atual, salario_novo; // salario_atual contem o valor do saláario antes do reajuste e salario_novo contem o salario reajustado
+  float percentual;                            // percentual contem o valor decimal representando o percentual de reajuste.
+
+  printf("\nDigite o salario atual do funcionario:"); // Mensagem para ser exibida ao usuario..\n usado quando se quer pular linha.
+  scanf("%f", &salario_atual );  //comando/funcao para ler do teclado o valor do salario digitado pelo usuario
+
+  printf("\nDigite o percentual de reajuste:"); // Mensagem para ser exibida ao usuario.
+  scanf("%f", &percentual );  //comando/funcao para ler do teclado o valor do percentual de rajuste digitado pelo usuario
+
+  salario_novo = salario_atual + salario_atual * percentual/100; // percentual deve ser dividido por 100 para representar o valor percentual
+
+  printf("\nSalario reajustado é: %f", salario_novo);
+}
+```
+::::
