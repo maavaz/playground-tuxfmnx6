@@ -5,7 +5,7 @@
 + O comando `scanf()` utiliza os caracteres de formatação para representar os tipos de dados dos valores que deverão ser digitados. <br />
 + 
 **SINTAXE DO COMANDO** <br />
-<h4>**scanf("%?", &variável);**</h4><br />
+####**scanf("%?", &variável);**####<br />
 
 O caracter **?** pode ser substituído por:
 + **d** quando o valor que será armazenado é numérico do tipo inteiro
