@@ -8,10 +8,10 @@
 #### **scanf("%?", &variável);**<br />
 
 + O caracter **?** deve ser substituído por:
-  - **d** quando o valor que será armazenado é numérico do tipo inteiro
-  - **f** quando o valor que será armazendao é numérico do tipo float
-  - **c** quando o valor que será armazenado é do tipo cacter alfanummérico.
-+ O comando `scanf` move o valor digitado pelo usuário (teclado) para dentro da variável associada. 
+  - **d** quando o valor digitado é do tipo inteiro.
+  - **f** quando o valor digitado é do tipo float.
+  - **c** quando o valor digitado é do caracter alfanummérico.
++ O comando `scanf` move o valor digitado pelo usuário (teclado) para a variável associada. 
 + É obrigatório o uso do caracter `&(E comercial)` na frente da variável que irá receber o valor digitado.
 
 <strong>ATENÇÃO:</strong> Os <strong>"Snippets"</strong> denominados `IDE` exibem um interpretador interativo online (https://repl.it/) para que você aluno execute e modifique os exemplos disponibilizados, além de permitir que faça os exercícios apresentados.
