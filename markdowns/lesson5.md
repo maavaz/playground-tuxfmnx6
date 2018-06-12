@@ -10,7 +10,7 @@
 + O caracter **?** deve ser substituído por:
   - **d** quando o valor digitado é do tipo inteiro.
   - **f** quando o valor digitado é do tipo float.
-  - **c** quando o valor digitado é do caracter alfanummérico.
+  - **c** quando o valor digitado é do caracter alfanumérico.
 + O comando `scanf` move o valor digitado pelo usuário (teclado) para a variável associada. 
 + É obrigatório o uso do caracter `&(E comercial)` na frente da variável que irá receber o valor digitado.
 
