@@ -6,6 +6,7 @@
 + 
 **SINTAXE DO COMANDO** <br />
 **scanf("%?", &variável);** <br />
+
 O caracter **?** pode ser substituído por:
 + **d** quando o valor que será armazenado é numérico do tipo inteiro
 + **f** quando o valor que será armazendao é numérico do tipo float
