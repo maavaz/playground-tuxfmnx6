@@ -5,4 +5,3 @@
 ![programa](/markdowns/ExecucaoProgramac.gif)
 
 
-https://www.youtube.com/watch?v=Ukg_U3CnJWI
