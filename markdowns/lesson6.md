@@ -2,7 +2,7 @@
 + Os comandos/instruções em um programa C são executados um após o outro, na seqüência escrita (de cima para baixo) do início ao fim. 
 + A figura a seguir exibe a execução de um programa C representando o processamento sequencial.
 
-![programa](/markdowns/ExecucaoProgramac50.gif)
+![programa](/markdowns/ExecucaoProgramac70.gif)
 
 # Exercícios Processamento Sequencial
 + A melhor maneira de aprendermos a programar é fazendo exercícios. 
