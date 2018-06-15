@@ -16,8 +16,8 @@
 ``` C
 int main() {
 
-  float salario_atual, salario_novo; // salario_atual armazena valor do salário antes do reajuste e salario_novo armazena o salario reajustado
-  float percentual;        // percentual contem o valor decimal representando o percentual de reajuste.
+  float salario_atual, salario_novo; // armazena valor do salário antes do reajuste e armazena o salario reajustado
+  float percentual;        //contem o valor decimal representando o percentual de reajuste.
 
   printf("\nDigite o salario atual do funcionario:"); // Mensagem exibida ao usuario. Caracter \n usado para pular 1 linha.
   scanf("%f", &salario_atual );  //ler do teclado o valor do salario digitado pelo usuario
