@@ -30,4 +30,4 @@ int main() {
   printf("\nSalario reajustado é: %f", salario_novo);
 }
 ```
-
+:::
