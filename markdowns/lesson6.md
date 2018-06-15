@@ -13,20 +13,20 @@
 #### Exercício 1  
 #### Faça um programa C para reajustar o salário atual de um funcionário. Para isso, o programa deve ler o valor do salário e o percentual de reajuste. Calcular e escrever o valor do salário reajustado.  
 :::Solução:
+
 ``` C
 int main() {
 
-  float salario_atual, salario_novo; // armazena valor do salário antes do reajuste e armazena o salario reajustado
-  float percentual;        //contem o valor decimal representando o percentual de reajuste.
+  float salario_atual, salario_novo;
+  float percentual;        
 
-  printf("\nDigite o salario atual do funcionario:"); // Msg exibida ao usuario. Caracter \n pula 1 linha.
-  scanf("%f", &salario_atual );  //ler do teclado o valor do salario digitado pelo usuario
+  printf("\nDigite o salario atual do funcionario:"); 
+  scanf("%f", &salario_atual );  
 
-  printf("\nDigite o percentual de reajuste:"); // Msg para ser exibida ao usuario.
-  scanf("%f", &percentual );  //ler do teclado o valor do percentual de rajuste digitado pelo usuario
+  printf("\nDigite o percentual de reajuste:"); 
+  scanf("%f", &percentual );  
 
-  salario_novo = salario_atual + salario_atual * percentual/100; // percentual dividido por 100 para representar o valor percentual
-
+  salario_novo = salario_atual + salario_atual * percentual/100; 
   printf("\nSalario reajustado é: %f", salario_novo);
 }
 ```
