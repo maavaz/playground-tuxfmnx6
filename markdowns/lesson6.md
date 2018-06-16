@@ -31,5 +31,10 @@ int main() {
 }
 ```
 :::
+::: My collapsible section
+
+Any **kind of content**!
+
+:::
 
 
