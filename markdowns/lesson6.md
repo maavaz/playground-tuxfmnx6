@@ -12,6 +12,13 @@
 
 #### Exercício 1  
 #### Faça um programa C para reajustar o salário atual de um funcionário. Para isso, o programa deve ler o valor do salário e o percentual de reajuste. Calcular e escrever o valor do salário reajustado.  
+
+::: My collapsible section
+
+Any **kind of content**!
+
+:::
+
 ::: Solução:
 
 ``` C
@@ -31,10 +38,6 @@ int main() {
 }
 ```
 :::
-::: My collapsible section
 
-Any **kind of content**!
-
-:::
 
 
