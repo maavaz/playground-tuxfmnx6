@@ -32,10 +32,10 @@ int main() {
 ```
 :::
 
-```markdown
+
 ::: My collapsible section
 
 Any **kind of content**!
 
 :::
-```
+
