@@ -64,7 +64,6 @@ int main(){
  printf("\nValor Premio primeiro ganhador: %f",ganhador1);
  printf("\nValor Premio segundo  ganhador: %f",ganhador2);
  printf("\nValor Premio terceiro ganhador: %f",ganhador3);
- printf("\n\n\n %f", ganhador1+ganhador2+ganhador3);
 }
 ```
 :::
