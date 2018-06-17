@@ -89,3 +89,6 @@ int main(){
 }
 ```
 ---
+
+@[IDE]({"stubs": ["./www/ExemploEntrada"],"command": "sh /project/target/www/entrada.sh"
+})
