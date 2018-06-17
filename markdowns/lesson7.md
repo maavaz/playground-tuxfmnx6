@@ -61,3 +61,10 @@ int main(){
 }
 ```
 :::
+---
+###### Exercício 3 
+---
+A padaria Sópão vende diariamente uma certa quantidade de pães franceses e uma quantidade de broas. Cada pãozinho custa R$ 0,25 e a broa custa R$ 1,50. Do total arrecadado, 43% corresponde aos custos de fabricação.
+Do restante, Seu joão guarda 15% numa conta de poupança e 15% ele converte em Euros para sua viagem Anual. Sabe-se que 1 Euro custa R$ 4,60.  Com base nestes fatos, faça um progrma C para ler as quantidades de pães e de broas, calcular a venda total de pãos e broas, o custo de fabricação, quanto irá guardar na poupança e quantos euros comprou.  Ao final exibir os dados calculados.
+
+---
