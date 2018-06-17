@@ -90,5 +90,5 @@ int main(){
 ```
 ---
 
-@[IDE]({"stubs": ["./www/ExerciciosSequencial"],"command": "sh /project/target/www/Sequencial.sh"
+@[IDE]({"stubs": ["./www/Sequencial"],"command": "sh /project/target/www/Sequencial.sh"
 })
