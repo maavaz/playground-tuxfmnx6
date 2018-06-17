@@ -63,7 +63,7 @@ int main(){
 }
 ```
 :::
-@[IDE]({"stubs": ["./www/Sequencial"],"command": "sh /project/target/www/Sequencial.sh"
+@[IDE]({"stubs": ["./www/Sequencial"],"command": "sh /project/target/www/Sequencial2.sh"
 })
 ---
 ###### Exercício 3 
@@ -96,5 +96,5 @@ int main(){
 :::
 ---
 
-@[IDE]({"stubs": ["./www/Sequencial"],"command": "sh /project/target/www/Sequencial.sh"
+@[IDE]({"stubs": ["./www/Sequencial"],"command": "sh /project/target/www/Sequencial3.sh"
 })
