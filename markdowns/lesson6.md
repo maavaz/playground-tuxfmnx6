@@ -40,5 +40,6 @@ Um determinado prêmio de loteria saiu para um bolão de três amigos. Um impost
 + O primeiro ganhador recebera 46%;
 + O segundo recebera 32%;
 + O terceiro recebera o restante;
+
 Faça um programa C que leia o valor total do prêmio, calcule os descontos e prêmios que cada um tem direito e imprima o valor total do prêmio, o premio descontado o imposto e a quantia ganha por cada um dos ganhador
 
