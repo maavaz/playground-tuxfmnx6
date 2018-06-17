@@ -66,5 +66,26 @@ int main(){
 ---
 A padaria Sópão vende diariamente uma certa quantidade de pães franceses e uma quantidade de broas. Cada pãozinho custa R$ 0,25 e a broa custa R$ 1,50. Do total arrecadado, 43% corresponde aos custos de fabricação.
 Do restante, Seu joão guarda 15% numa conta de poupança e 15% ele converte em Euros para sua viagem Anual. Sabe-se que 1 Euro custa R$ 4,60.  Com base nestes fatos, faça um progrma C para ler as quantidades de pães e de broas, calcular a venda total de pãos e broas, o custo de fabricação, quanto irá guardar na poupança e quantos euros irá comprar.  Ao final exibir os dados calculados.
+``` C
+#include<stdio.h>
+int main(){
+  int frances, broa;
+  float total, custo, poup, euros;
 
+  printf("\nEntre com a quantidade de pães franceses vendidos: ");
+  scanf ("%d", &frances);
+
+  printf("\nEntre com a quantidade de broas vendidas: ");
+  scanf ("%d", &broa);
+
+  total = frances * 0.25 + broa * 1.5;
+  custo = total * 0.43;
+  poup = (total - custo) * 0.1;
+  euros = ((total - custo) * 0.1)/4.6;
+  printf("\nTotal Diário arrecadado: R$ %f", total);
+  printf("\nCusto frabricacao: R$ %f", custo);
+  printf("\nPoupanca: R$ %f", poup);
+  printf("\nEuros: %f", euros);
+}
+```
 ---
