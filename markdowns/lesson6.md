@@ -43,5 +43,28 @@ Um determinado prêmio de loteria saiu para um bolão de três amigos. Uma lei g
 
 Faça um programa C que leia o valor total do prêmio, calcule o desconto, o valor que cada um tem direito e imprima o total do prêmio, o premio descontado o imposto e a quantia recebida por cada um dos ganhadores.
 ::: Solução
+``` C
+int main(){
 
+ float ganhador1, ganhador2, ganhador3;
+ float premio, premiodesc;
+
+ printf("\nDigite o Valor Total do Premio:");
+ scanf("%f", &premio);
+
+ premiodesc = premio - premio * 0.07;
+
+ ganhador1 = premiodesc * 0.46;
+ ganhador2 = premiodesc * 0.32;
+ ganhador3 = premiodesc - (ganhador1 + ganhador2);
+
+ printf("\nValor Premio Total: %f",premio);
+ printf("\nValor Premio Descontado: %f",premiodesc);
+ printf("\n============Ganhadores=====================\n");
+ printf("\nValor Premio primeiro ganhador: %f",ganhador1);
+ printf("\nValor Premio segundo  ganhador: %f",ganhador2);
+ printf("\nValor Premio terceiro ganhador: %f",ganhador3);
+ printf("\n\n\n %f", ganhador1+ganhador2+ganhador3);
+}
+```
 :::
