@@ -36,7 +36,7 @@ int main() {
 ---
 ###### Exercício 2 
 ---
-Um determinado prêmio de loteria saiu para um bolão de três amigos. Um imposto estadual garante que todo prêmio de loteria deva pagar 7% para os cofres estaduais. Do total descontado o imposto, os amigos irão dividir o  prêmio da seguinte maneira:
+Um determinado prêmio de loteria saiu para um bolão de três amigos. Uma lei garante que todo prêmio de loteria deva pagar um imposto de 7% para os cofres estaduais. Do total descontado o imposto, os amigos irão dividir o  prêmio da seguinte maneira:
 + O primeiro ganhador recebera 46%;
 + O segundo recebera 32%;
 + O terceiro recebera o restante;
