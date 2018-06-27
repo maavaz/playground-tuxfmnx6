@@ -3,8 +3,9 @@
 + A execução desse conjunto de comandos dependerá da avaliação (verdadeira ou Falsa) da(s) condição(ões).
 + As condições são representadas através de expressões relacionais. 
 + As expressões relacionais permitem a comparação de valores de mesmo tiopo e possui resultado em valores Verdadeiros ou Falsos. 
+
+**Operadores Relacionais:**
 ```
-Operadores Relacionais:
 == igual
 != diferente
 >  maior
@@ -13,9 +14,10 @@ Operadores Relacionais:
 <= menor ou igual
 ```
 **Exemplo de Expressões relacionais**
+```
 A expressão 3 > 2 possui valor verdadeiro. 
 A expressão 4 < 1  possui valor falso.
-
+```
 
 + A estrutura condicional pode ser: Simples, Composta ou Aninhada.
 
