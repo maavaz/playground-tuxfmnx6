@@ -1,5 +1,5 @@
 # Processamento Condicional
-+ O processamento Condicional introduz a estrutura de programação ```IF``` que possibilita agrupar um conjunto de comandos (1 ou mais) a uma ou mmais condições.
++ O processamento Condicional introduz a estrutura de decisão ```IF``` que possibilita agrupar um conjunto de comandos (1 ou mais) a uma ou mmais condições.
 + A execução desse conjunto de comandos dependerá da avaliação (verdadeira ou Falsa) da(s) condição(ões).
 + As condições são representadas através de expressões relacionais. 
 + As expressões relacionais permitem a comparação de valores de mesmo tiopo e possui resultado em valores Verdadeiros ou Falsos. 
