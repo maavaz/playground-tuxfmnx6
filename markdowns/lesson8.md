@@ -1,6 +1,25 @@
 # Processamento Condicional
-+ O processamento Condicional introduz a estrutura de programação ```IF``` que possibilita agrupar um conjunto de comandos (1 ou mais) a uma determinada condição.
-+ Esse conjunto de comandos agrupados só serão executados se a condição for avaliada como verdadeira, do contrário (condição avaliada Falsa), esse conjunto não será executado.
++ O processamento Condicional introduz a estrutura de programação ```IF``` que possibilita agrupar um conjunto de comandos (1 ou mais) a uma ou mmais condições.
++ A execução desse conjunto de comandos dependerá da avaliação (verdadeira ou Falsa) da(s) condição(ões).
++ As condições são representadas através de expressões relacionais. 
++ As expressões relacionais permitem a comparação de valores de mesmo tiopo e possui resultado em valores Verdadeiros ou Falsos. 
+```
+Operadores Relacionais:
+== igual
+!= diferente
+>  maior
+>= maior ou igual
+<  menor
+<= menor ou igual
+```
+**Exemplo de Expressões relacionais**
+A expressão 3 > 2 possui valor verdadeiro. 
+A expressão 4 < 1  possui valor falso.
+
+
 + A estrutura condicional pode ser: Simples, Composta ou Aninhada.
 
+### Estrutura condicional Simples
++ Esse tipo de estrutura só permite a execução dos comandos associados a condição, se esta for verdadeira, do contrário.
+Esse conjunto de comandos agrupados só será executado se a condição for avaliada como verdadeira, do contrário (condição avaliada Falsa), esse conjunto de comandos não será executado.
 ![programa](/markdowns/gif_IF_Simples.gif)
