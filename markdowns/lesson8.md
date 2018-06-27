@@ -22,6 +22,6 @@ A expressão 4 < 1  possui valor falso.
 + A estrutura condicional pode ser: Simples, Composta ou Aninhada.
 
 ### Estrutura condicional Simples
-+ Esse tipo de estrutura só permite a execução dos comandos associados a condição, se esta for verdadeira, do contrário.
-Esse conjunto de comandos agrupados só será executado se a condição for avaliada como verdadeira, do contrário (condição avaliada Falsa), esse conjunto de comandos não será executado.
++ Esse tipo de estrutura só permite a execução dos comandos associados a(s) condição(ões) avaliada(s) verdadeira, do contrário (condição avaliada Falsa), esse conjunto de comandos não será executado.
+
 ![programa](/markdowns/gif_IF_Simples.gif)
