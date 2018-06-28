@@ -20,6 +20,6 @@
 ---
 + A imagem abaixo representa o exemplo de funcionamento da estrutura ```IF Simples```, para as 2 situações (Verdadeira e Falsa).
 
-![programa](/markdowns/gif_IF_Simples.gif)
+![programa](/markdowns/gif_IF_Composto.gif)
 
 ---
