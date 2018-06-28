@@ -9,8 +9,8 @@
 
 ---
 Exemplo de Programa com estrutura condicional simples
-```
-C runnable
+
+``` C runnable
 #include <stdio.h>
 #include <stdlib.h>
 int main(void)
