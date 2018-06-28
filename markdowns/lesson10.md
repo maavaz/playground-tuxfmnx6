@@ -15,4 +15,5 @@
  }
  ```
  + O **else** simboliza a negação da condição do if, logo está ligado à instrução que será executada quando a condição for falsa.
- + Esse Tipo de Estrutura representa uma bifurcação, onde ou executo os comandos associados a condição Verdadeira ou executo os comandos associados a condição Falsa, mas nunca os dois.
+ + Esse tipo de Estrutura representa uma bifurcação, onde ou executo os comandos associados a condição Verdadeira ou executo os comandos associados a condição Falsa, mas nunca os dois.
+ + 
