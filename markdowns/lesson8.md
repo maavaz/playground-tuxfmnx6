@@ -18,7 +18,8 @@
 A expressão 3 > 2 possui valor verdadeiro. 
 A expressão 4 < 1  possui valor falso.
 ```
-** Testando os conhecimentos....
+-------
+Testando os conhecimentos....
 -------
 ?[De acordo com os valores movidos para as variáveis nos comandos abaixo, indique a linha que contém a declaração na sua forma correta em C: letra = 'm'; numero1 = 13;   numero2 = 8.98;](single)
 -[ ] int letra;<br/> float numero1; <br/>char numero2; 
