@@ -13,11 +13,13 @@
  }
 ```
 + A imagem abaixo representa o exemplo de funcionamento da estrutura ```IF Simples```.
-+
+
 ![programa](/markdowns/gif_IF_Simples.gif)
 
 ---
-Exemplo de Programa com estrutura condicional simples
++ Exemplo de Programa com estrutura condicional simples: 
+    + selecione o botão **Run** para execução do programa;
+    + Modifique os valores das variáveis A e B para criar situações diferentes da apresentada;
 
 ``` C runnable
 #include <stdio.h>
