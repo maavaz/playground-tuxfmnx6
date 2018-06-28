@@ -9,7 +9,7 @@
 ```
  if (condição)
  {
-    instrução ou instruções para condição verdadeira;
+    Comando(s) para condição verdadeira;
  }
 ```
 + A imagem abaixo representa o exemplo de funcionamento da estrutura ```IF Simples```, para as 2 situações (Verdadeira e Falsa).
