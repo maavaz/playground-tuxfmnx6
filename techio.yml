@@ -28,7 +28,7 @@ plan:
   - title: Processamento Condicional
     statement: markdowns/lesson8.md  
   - title: Processamento Condicional (continuação)
-    statement: markdowns/lesson8.md
+    statement: markdowns/lesson9.md
 projects:
   cpp:
     root: /cpp-project
