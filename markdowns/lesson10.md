@@ -23,8 +23,12 @@
 ![programa](/markdowns/gif_IF_Composto.gif)
 
 ---
++ Exemplo de Programa com estrutura condicional composta: 
+    + selecione o botão **Run** para execução do programa;
+    + Modifique os valores das variáveis A e B para criar situações diferentes da apresentada;
+
+``` C runnable
 #include <stdio.h>
-#include <stdlib.h>
 int main(void)
 {
     int A, B, Soma;
@@ -49,3 +53,4 @@ int main(void)
     system("PAUSE");
     return(0);
 }
+```
