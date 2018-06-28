@@ -4,7 +4,7 @@
 ---
 
 ### Estrutura condicional Simples
-+ Esse tipo de estrutura só permite a execução dos comandos associados a(s) condição(ões) avaliada(s) **Verdadeira**, do contrário (condição avaliada **Falsa**), esse conjunto de comandos não será executado.
++ Esse tipo de estrutura só permite a execução dos comandos associados a condição avaliada **Verdadeira**, do contrário (condição avaliada **Falsa**), esse conjunto de comandos não será executado.
 + Em linguagem C o código equivalente para essa estrutura de decisão é:
 ```
  if (condição)
