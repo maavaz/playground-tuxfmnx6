@@ -19,7 +19,7 @@ A expressão 3 > 2 possui valor verdadeiro.
 A expressão 4 < 1  possui valor falso.
 ```
 -------
-Testando os conhecimentos....
+**Testando os conhecimentos....**
 -------
 ?[Sabendo que  X=8, Y= -3 e Z= 4, quais expressões abaixo tem resultado o valor Verdadeiro?](multiple)
 -[x] X > Y	
