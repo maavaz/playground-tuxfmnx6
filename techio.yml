@@ -27,8 +27,10 @@ plan:
     statement: markdowns/lesson7.md
   - title: Processamento Condicional
     statement: markdowns/lesson8.md  
-  - title: Processamento Condicional (continuação)
+  - title: Processamento Condicional (Simples)
     statement: markdowns/lesson9.md
+  - title: Processamento Condicional (Composta)
+    statement: markdowns/lesson10.md
 projects:
   cpp:
     root: /cpp-project
