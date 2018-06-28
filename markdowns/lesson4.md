@@ -23,7 +23,7 @@ Note-se que o operando do lado esquerdo do operador de atribuição é sempre um
  Para utilizarmos essa função é necessário incluirmos a diretiva **#include** para o arquivo **stdio.h**, como exibido abaixo:<br />
                                               **#include<stdio.h>**
  <ul>
-  <li>EXIBINDO TEXTOS (MENSAGENS) NA TELA DO COMPUTADOR</li>
+  <li>EXIBINDO MENSAGENS (TEXTOS) NA TELA DO COMPUTADOR</li>
  </ul> 
   Para que o comando <strong>printf</strong> exiba qualquer <strong>mensagem (Texto)</strong> que o usuário desejar, basta colocar a mensagem entre aspas duplas, como no trecho de código abaixo (para executar selecione a tecla Run):
   
