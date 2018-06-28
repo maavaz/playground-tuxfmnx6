@@ -7,11 +7,11 @@
 ```
  if (condição)
  {
-    instrução ou instruções para condição Verdadeira;
+    Comando(s) para condição Verdadeira;
  }
  else
  {
-    instrução ou instruções para condição Falsa;
+    Comando(s) para condição Falsa;
  }
  ```
- 
+ + O **else** simboliza a negação da condição do if, logo está ligado à instrução que será executada quando a condição for falsa.
