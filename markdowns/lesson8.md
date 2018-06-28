@@ -21,13 +21,13 @@ A expressão 4 < 1  possui valor falso.
 -------
 Testando os conhecimentos....
 -------
-?[Sabendo que  X=8, Y= -3 e Z= 4, quais expressões abaixo tem resultado o valor Verdadeiro?](single)
--[ ] X > Y	
--[ ] X / 4 == Z / 2 
--[x] Y >= 0
--[ ] Z * 2 == X
+?[Sabendo que  X=8, Y= -3 e Z= 4, quais expressões abaixo tem resultado o valor Verdadeiro?](multiple)
+-[x] X > Y	
+-[x] X / Z == Z / 2 
+-[ ] Y >= 0
+-[x] Z * 2 == X
 -[ ] X / Y - 1 == 0
 -[ ] Y == 3
--[ ] X+Y >= X-Y 
+-[ ] X + Y >= X - Y 
 
 + A estrutura condicional pode ser: Simples, Composta ou Aninhada.
