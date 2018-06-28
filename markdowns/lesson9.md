@@ -1,6 +1,6 @@
 # Processamento Condicional
 
-As estruturas condicionais podem ser: Simples, Composta ou Aninhada.
+** As estruturas condicionais podem ser: Simples, Compostas ou Aninhadas. **
 ---
 
 ### Estrutura condicional Simples
