@@ -20,7 +20,7 @@ A expressão 4 < 1  possui valor falso.
 ```
 -------
 **Testando os conhecimentos....**
--------
+
 ?[Sabendo que  X=8, Y= -3 e Z= 4, quais expressões abaixo tem resultado o valor Verdadeiro?](multiple)
 -[x] X > Y	
 -[x] X / Z == Z / 2 
