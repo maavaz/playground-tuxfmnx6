@@ -24,7 +24,7 @@ int main(void)
  
     if(Soma >= 10)
     {
-       printf("O valor da soma é maior ou igual a 10\n");
+        printf("\n\nEstou dentro da Estrutura IFSimples, logo:\n valor da soma é maior ou igual a 10\n");
     }
  
     return(0);
