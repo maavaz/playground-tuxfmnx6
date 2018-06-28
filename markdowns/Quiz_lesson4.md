@@ -35,7 +35,6 @@ return 0;
 -[ ] f e c
 
 
-
 ```
 Considerando um programa iniciado pelos comandos:
              float a  = 20;
