@@ -18,7 +18,7 @@
  + A Estrutura Condicional Composta representa uma bifurcação,i.e., ou executo os comandos associados a condição Verdadeira ou executo os comandos associados a condição Falsa, mas nunca os dois.
 ![bifurcacao](/markdowns/bifurcação.png)
 ---
-+ A imagem abaixo representa o exemplo de funcionamento da estrutura ```IF Simples```, para as 2 situações (Verdadeira e Falsa).
++ A imagem abaixo representa o exemplo de funcionamento da estrutura ```IF Composto```, para as 2 situações (Verdadeira e Falsa).
 
 ![programa](/markdowns/gif_IF_Composto.gif)
 
