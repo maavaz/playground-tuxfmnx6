@@ -50,7 +50,6 @@ int main(void)
            printf("Valor menor ou igual a 10\n");
        }
  
-    system("PAUSE");
     return(0);
 }
 ```
