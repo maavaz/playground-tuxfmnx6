@@ -30,4 +30,3 @@ A expressão 4 < 1  possui valor falso.
 -[ ] Y == 3
 -[ ] X + Y >= X - Y 
 
-+ A estrutura condicional pode ser: Simples, Composta ou Aninhada.
