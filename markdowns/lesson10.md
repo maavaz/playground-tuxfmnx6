@@ -32,12 +32,8 @@
 int main(void)
 {
     int A, B, Soma;
-    printf("Digite um numero inteiro: ");
-    scanf("%d", &A);
- 
-    printf("Digite um numero inteiro: ");
-    scanf("%d", &B);
- 
+    A = 25;
+    B = 35;
     Soma = A + B;
     printf("O Valor da soma = %d\n", Soma);
  
