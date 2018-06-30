@@ -14,6 +14,7 @@ Considere três execuções diferentes onde os valores armazenados por X e Y, no
 | X | Y |
 |---|---|
 | 1 | 2 |
+|---|---|
 | 1 | 1 |
 | 2 | 3 |
 
