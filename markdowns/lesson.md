@@ -11,11 +11,11 @@ else {
 ```
 Considere três execuções diferentes onde os valores armazenados por X e Y, no momento de execução do ```if``` são apresentados abaixo:
 
-|X|Y|
-|-|-|
-|1|2|
-|1|1|
-|2|3|
+| X | Y |
+|---|---|
+| 1 | 2 |
+| 1 | 1 |
+| 2 | 3 |
 
 ?[Para a variável W ter o valor igual a 0, quais os valores de X e Y, na execução do trecho de código acima:]
 -[ ] X = 2 e Y= 3.
