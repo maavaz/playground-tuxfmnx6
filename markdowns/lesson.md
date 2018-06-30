@@ -10,26 +10,6 @@ else {
 }
 ```
 Considere três execuções diferentes onde os valores armazenados por X e Y, no momento de execução do ```if``` são apresentados abaixo:
-<table  border="1px" CELLSPACING="10" CELLPADDING="0" bgcolor="#CCC">
-  <THEAD>
-  <tr>
-    <td width="20px" align="center">X</td>
-    <td width="20px" align="center">Y</td>
-  </tr>
-  <tr>
-  </THEAD>
-    <td width="20px" align="center" COLSPAN="4">1</td>
-    <td width="20px" align="center" COLSPAN="4">2</td>
-  </tr>
-  <tr>
-    <td width="20px" align="center" COLSPAN="1">1</td>
-    <td width="20px" align="center" COLSPAN="1">1</td>
-  </tr>
-  <tr>
-    <td width="20px" align="center" COLSPAN="1">2</td>
-    <td width="20px" align="center" COLSPAN="1">3</td>
-  </tr>
-</table>
 
 | X | Y |
 |---|---|
