@@ -16,16 +16,16 @@ Considere três execuções diferentes onde os valores armazenados por X e Y, no
     <td width="20" align="center">Y</td>
   </tr>
   <tr>
-    <td width="20">1</td>
-    <td width="20">2</td>
+    <td width="20" align="center">1</td>
+    <td width="20" align="center">2</td>
   </tr>
   <tr>
-    <td width="20">1</td>
-    <td width="20">1</td>
+    <td width="20" align="center">1</td>
+    <td width="20" align="center">1</td>
   </tr>
   <tr>
-    <td width="20">2</td>
-    <td width="20">3</td>
+    <td width="20" align="center">2</td>
+    <td width="20" align="center">3</td>
   </tr>
 </table>
 
