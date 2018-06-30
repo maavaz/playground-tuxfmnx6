@@ -9,13 +9,18 @@ else {
   W=1;
 }
 ```
-O Valor armazenado na variável W será igual a 0 se:
-() X >= Y
-() X > Y
-() X < Y
-() X <= Y
-() X = Y
-() Nenhuma das anteriores
+Considere três execuções diferentes onde os valores armazenados por X e Y, no momento de execução do ```if``` são apresentados abaixo:
+X	Y
+1	2
+1	1
+2	3
+
+?[Para a variável W ter o valor igual a 0, quais os valores de X e Y:]
+-[ ] X = 2 e Y= 3.
+-[ ] X = 1 e Y= 2.
+-[x] X = 1 e Y= 1.
+-[ ] Em nenhuma das três execuções a variável W conterá o valor 0.
+----
 
 Escreva um programa C que peça a idade de uma pessoa e se tiver 21 ou mais anos, imprima a idade juntamente com a mensagem "Você já é maior de 21 anos".
 @[IDE]({"stubs": ["./www/condicional"],"command": "sh /project/target/www/condicional.sh"
