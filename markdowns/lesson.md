@@ -23,6 +23,33 @@ Considere três execuções diferentes onde os valores armazenados por X e Y, no
 -[x] X = 1 e Y= 1.
 -[ ] Em nenhuma das três execuções a variável W conterá o valor 0.
 ----
+Dado o trecho de código abaixo:
+```
+printf ("A");
+if (q1) {
+ printf ("B");
+}
+else {
+  printf ("C");
+}
+printf ("D");
+if (q2) {
+ printf("E");
+}
+else {
+  printf ("F");
+}
+printf ("G");
+printf ("H");
+
+}
+```
+?[Que sequência será impressa pelo programa caso as condições q1 e q2 sejam verdadeiras:]
+-[x] A B D E G H.
+-[ ] A C D F G H.
+-[ ] A B D F G H.
+-[ ] A C D E G H.
+----
 
 Escreva um programa C que peça a idade de uma pessoa e se tiver 21 ou mais anos, imprima a idade juntamente com a mensagem "Você já é maior de 21 anos".
 @[IDE]({"stubs": ["./www/condicional"],"command": "sh /project/target/www/condicional.sh"
