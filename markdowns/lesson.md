@@ -9,7 +9,7 @@ else {
   W=1;
 }
 ```
-Considere três execuções diferentes onde os valores armazenados por X e Y, no momento de execução do ```if```, são apresentados abaixo:
+Considere três execuções do trecho de código acima, onde os valores armazenados por X e Y são apresentados abaixo:
 
 | X | Y |
 |---|---|
@@ -17,7 +17,7 @@ Considere três execuções diferentes onde os valores armazenados por X e Y, no
 | 1 | 1 |
 | 2 | 3 |
 
-?[Para a variável W ter o valor igual a 0, quais os valores de X e Y, na execução do trecho de código acima:]
+?[Qual das execuções acima (valores de X e Y), faz com que a variável W armazene o valor 0 (zero):]
 -[ ] X = 2 e Y= 3.
 -[ ] X = 1 e Y= 2.
 -[x] X = 1 e Y= 1.
