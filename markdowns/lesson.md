@@ -12,8 +12,8 @@ else {
 Considere três execuções diferentes onde os valores armazenados por X e Y, no momento de execução do ```if``` são apresentados abaixo:
 <table  border="1px" bgcolor="#CCC">
   <tr>
-    <td width="20" align="center">X</td>
-    <td width="20" align="center">Y</td>
+    <td width="20" align="center" bgcolor="#CCC">X</td>
+    <td width="20" align="center" bgcolor="#CCC">Y</td>
   </tr>
   <tr>
     <td width="20" align="center">1</td>
