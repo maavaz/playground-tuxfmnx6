@@ -8,6 +8,7 @@ Observe o trecho do programa C abaixo.
 else { 
   W=1;
 }
+```
 O Valor armazenado na variável W será igual a 0 se:
 () X >= Y
 () X > Y
