@@ -10,24 +10,22 @@ else {
 }
 ```
 Considere três execuções diferentes onde os valores armazenados por X e Y, no momento de execução do ```if``` são apresentados abaixo:
-<table>
+table width="467" border="1px" bgcolor="#CCC">
   <tr>
-    <th>Option</th>
-    <th>Description</th>
+    <td width="101" height="40">Nome</td>
+    <td width="113">Telefone</td>
+    <td width="140">Endereço</td>
+    <td width="85">Cep</td>
   </tr>
   <tr>
-    <td>data</td>
-    <td>path to data files to supply the data that will be passed into templates.</td>
-  </tr>
-  <tr>
-    <td>engine</td>
-    <td>engine to be used for processing templates. Handlebars is the default.</td>
-  </tr>
-  <tr>
-    <td>ext</td>
-    <td>extension to be used for dest files.</td>
+    <td height="40">Ricardo</td>
+    <td>(21) 9999-9999</td>
+    <td>Rua Dois, casa 3.</td>
+    <td>99999-999</td>
   </tr>
 </table>
+
+
 | X | Y |
 |---|---|
 | 1 | 2 |
