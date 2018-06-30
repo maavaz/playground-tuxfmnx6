@@ -52,6 +52,22 @@ printf ("H");
 ----
 
 Escreva um programa C que peça a idade de uma pessoa e, se a idade digitada for 21 ou mais anos, imprima a idade juntamente com a mensagem "Você já é maior de 21 anos".
+::: Solução
+
+``` C
+#include<stdio.h>
+int main(){
+int idade;
+
+printf("Digite a sua Idade:");
+scanf("%d", &idade);
+
+if (idade >= 21){
+ printf("Voce já e maior de 21 anos");
+}
+}
+```
+:::
 @[IDE]({"stubs": ["./www/condicional"],"command": "sh /project/target/www/condicional1.sh"
 })
 ---
