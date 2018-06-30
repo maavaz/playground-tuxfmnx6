@@ -9,7 +9,7 @@ else {
   W=1;
 }
 ```
-Considere três execuções diferentes onde os valores armazenados por X e Y, no momento de execução do ```if``` são apresentados abaixo:
+Considere três execuções diferentes onde os valores armazenados por X e Y, no momento de execução do ```if```, são apresentados abaixo:
 
 | X | Y |
 |---|---|
