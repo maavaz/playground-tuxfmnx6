@@ -51,7 +51,7 @@ printf ("H");
 -[ ] A C D E G H.
 ----
 
-Escreva um programa C que peça a idade de uma pessoa e se tiver 21 ou mais anos, imprima a idade juntamente com a mensagem "Você já é maior de 21 anos".
+Escreva um programa C que peça a idade de uma pessoa e, se a idade digitada for 21 ou mais anos, imprima a idade juntamente com a mensagem "Você já é maior de 21 anos".
 @[IDE]({"stubs": ["./www/condicional"],"command": "sh /project/target/www/condicional1.sh"
 })
 ---
