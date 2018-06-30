@@ -12,7 +12,7 @@
 -[ ] variável tipo;
 -[ ] tipo = variável;
 
-?[Para que o programa abaixo possa exibir o conteúdo das variáveis soma e divisao corretamente, que caracteres de formatação devem ser colocados no lugar do caracter interrogação <b>?</b> *substitua os caracteres acima para executar o programa e depois responda a essa pergunta]
+?[Para que o programa abaixo possa exibir o conteúdo das variáveis soma e divisao corretamente, que caracteres de formatação devem ser colocados no lugar do caracter interrogação(?). *substitua os caracteres acima para executar o programa e depois responda a essa pergunta]
 -[ ] a e b
 -[ ] d e c
 -[x] d e f
