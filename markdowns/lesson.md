@@ -52,6 +52,9 @@ printf ("H");
 ----
 
 Escreva um programa C que peça a idade de uma pessoa e, se a idade digitada for 21 ou mais anos, imprima a idade juntamente com a mensagem "Você já é maior de 21 anos".
+
+@[IDE]({"stubs": ["./www/condicional"],"command": "sh /project/target/www/condicional1.sh"
+})
 ::: Solução
 
 ``` C
@@ -68,8 +71,6 @@ if (idade >= 21){
 }
 ```
 :::
-@[IDE]({"stubs": ["./www/condicional"],"command": "sh /project/target/www/condicional1.sh"
-})
 ---
 As maçãs custam R$ 0,30 cada se forem compradas menos do que uma dúzia, e R$0,25 cada, se forem compradas pelo menos uma dúzia. Escreva um programa que leia o número de maçãs compradas, calcule e escreva o valor total da compra.
 
