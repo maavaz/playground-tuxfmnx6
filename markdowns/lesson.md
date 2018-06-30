@@ -16,10 +16,16 @@ Considere três execuções diferentes onde os valores armazenados por X e Y, no
     <td width="60">Y</td>
   </tr>
   <tr>
-    <td height="40">Ricardo</td>
-    <td>(21) 9999-9999</td>
-    <td>Rua Dois, casa 3.</td>
-    <td>99999-999</td>
+    <td>1</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>3</td>
   </tr>
 </table>
 
