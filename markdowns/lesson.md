@@ -13,13 +13,13 @@ Considere três execuções diferentes onde os valores armazenados por X e Y, no
 <table  border="1px" bgcolor="#CCC">
   <THEAD>
   <tr>
-    <td width="20px" align="center" bgcolor="#000000">X</td>
-    <td width="20px" align="center" bgcolor="#CCC">Y</td>
+    <td width="20px" align="center">X</td>
+    <td width="20px" align="center">Y</td>
   </tr>
   <tr>
   </THEAD>
-    <td width="20px" align="center" COLSPAN="1">1</td>
-    <td width="20px" align="center" COLSPAN="1">2</td>
+    <td width="20px" align="center" COLSPAN="4">1</td>
+    <td width="20px" align="center" COLSPAN="4">2</td>
   </tr>
   <tr>
     <td width="20px" align="center" COLSPAN="1">1</td>
