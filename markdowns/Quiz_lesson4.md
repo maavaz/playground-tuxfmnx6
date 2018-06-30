@@ -12,6 +12,12 @@
 -[ ] variável tipo;
 -[ ] tipo = variável;
 
+?[Para que o programa abaixo possa exibir o conteúdo das variáveis soma e divisao corretamente, que caracteres de formatação devem ser colocados no lugar do caracter interrogação ```?``` *substitua os caracteres acima para executar o programa e depois responda a essa pergunta]
+-[ ] a e b
+-[ ] d e c
+-[x] d e f
+-[ ] f e c
+
 ```C runnable
 #include<stdio.h>
 int main(){
@@ -28,12 +34,6 @@ printf("e = %?",divisao);
 return 0;
 }
 ```
-?[Para que o programa acima possa exibir o conteúdo das variáveis soma e divisao corretamente, que caracteres de formatação devem ser colocados no lugar do caracter interrogação? *substitua os caracteres acima para executar o programa e depois responda a essa pergunta]
--[ ] a e b
--[ ] d e c
--[x] d e f
--[ ] f e c
-
 
 ```
 Considerando um programa iniciado pelos comandos:
