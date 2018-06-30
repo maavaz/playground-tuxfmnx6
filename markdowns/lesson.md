@@ -10,12 +10,10 @@ else {
 }
 ```
 Considere três execuções diferentes onde os valores armazenados por X e Y, no momento de execução do ```if``` são apresentados abaixo:
-<table width="467" border="1px" bgcolor="#CCC">
+<table width="120" border="1px" bgcolor="#CCC">
   <tr>
-    <td width="101" height="40">Nome</td>
-    <td width="113">Telefone</td>
-    <td width="140">Endereço</td>
-    <td width="85">Cep</td>
+    <td width="60">X</td>
+    <td width="60">Y</td>
   </tr>
   <tr>
     <td height="40">Ricardo</td>
