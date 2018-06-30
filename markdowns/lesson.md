@@ -10,7 +10,7 @@ else {
 }
 ```
 Considere três execuções diferentes onde os valores armazenados por X e Y, no momento de execução do ```if``` são apresentados abaixo:
-<table  border="1px" bgcolor="#CCC">
+<table  border="1px" CELLSPACING="10" CELLPADDING="0" bgcolor="#CCC">
   <THEAD>
   <tr>
     <td width="20px" align="center">X</td>
@@ -33,7 +33,7 @@ Considere três execuções diferentes onde os valores armazenados por X e Y, no
 
 | X | Y |
 |---|---|
-| 1: | 2 |
+| 1 | 2 |
 | 1 | 1 |
 | 2 | 3 |
 
