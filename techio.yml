@@ -31,7 +31,7 @@ plan:
     statement: markdowns/lesson9.md
   - title: Processamento Condicional (Composta)
     statement: markdowns/lesson10.md
-  - title: Testando Conhecimentos (Condicional)
+  - title: Exercícios Processamento Condicional
     statement: markdowns/lesson.md
 projects:
   cpp:
