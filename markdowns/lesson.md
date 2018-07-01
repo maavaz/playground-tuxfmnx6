@@ -23,16 +23,16 @@ Considere três execuções do trecho de código acima, onde os valores armazena
     <th>Y</th>
   </tr>
   <tr>
-    <td style="text-align: center;">1</td>
-    <td>2</td>
+    <td text-align: "center" width: "20%" bgcolor: "red">1</td>
+    <td text-align: "center" width: "20%" bgcolor: "red">2</td>
   </tr>
   <tr>
-    <td>1</td>
-    <td>1</td>
-  </tr>
+    <td text-align: "center" width: "20%" bgcolor: "red">1</td>
+    <td text-align: "center" width: "20%" bgcolor: "red">1</td>
+  </tr> 
   <tr>
-    <td>2</td>
-    <td>3</td>
+    <td text-align: "center" width: "20%" bgcolor: "red">2</td>
+    <td text-align: "center" width: "20%" bgcolor: "red">3</td>
   </tr>
 </table>
 
