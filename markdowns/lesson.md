@@ -17,6 +17,25 @@ Considere três execuções do trecho de código acima, onde os valores armazena
 | 1 | 1 |
 | 2 | 3 |
 
+<table tablestyle="width: 80%" style="background-color: red;">
+  <tr>
+    <th>X</th>
+    <th>Y</th>
+  </tr>
+  <tr style="text-align: center;">
+    <td>1</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>e1</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>3</td>
+  </tr>
+</table>
+
 ?[Qual das execuções acima (valores de X e Y), faz com que a variável W armazene o valor 0 (zero):]
 -[ ] X = 2 e Y= 3.
 -[ ] X = 1 e Y= 2.
