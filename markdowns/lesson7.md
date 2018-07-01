@@ -7,6 +7,8 @@
 ###### Exercício 1  
 ---
 Faça um programa C para reajustar o salário atual de um funcionário. Para isso, o programa deve ler o valor do salário e o percentual de reajuste. Calcular e escrever o valor do salário reajustado.  
+@[IDE]({"stubs": ["./www/Sequencial"],"command": "sh /project/target/www/Sequencial.sh"
+})
 
 ::: Solução
 
@@ -27,8 +29,7 @@ int main() {
 }
 ```
 :::
-@[IDE]({"stubs": ["./www/Sequencial"],"command": "sh /project/target/www/Sequencial.sh"
-})
+
 ---
 ###### Exercício 2 
 ---
@@ -38,6 +39,10 @@ Um determinado prêmio de loteria saiu para um bolão de três amigos. Uma lei g
 + O terceiro recebera o restante;
 
 Faça um programa C que leia o valor total do prêmio, calcule o desconto, o valor que cada um tem direito e imprima o total do prêmio, o premio descontado o imposto e a quantia recebida por cada um dos ganhadores.
+
+@[IDE]({"stubs": ["./www/Sequencial"],"command": "sh /project/target/www/Sequencial2.sh"
+})
+
 ::: Solução
 ``` C
 int main(){
@@ -63,13 +68,15 @@ int main(){
 }
 ```
 :::
-@[IDE]({"stubs": ["./www/Sequencial"],"command": "sh /project/target/www/Sequencial2.sh"
-})
 ---
 ###### Exercício 3 
 ---
 A padaria Sópão vende diariamente uma certa quantidade de pães franceses e uma quantidade de broas. Cada pãozinho custa R$ 0,25 e a broa custa R$ 1,50. Do total arrecadado, 43% corresponde aos custos de fabricação.
 Do restante, Seu joão guarda 15% numa conta de poupança e 15% ele converte em Euros para sua viagem Anual. Sabe-se que 1 Euro custa R$ 4,60.  Com base nestes fatos, faça um progrma C para ler as quantidades de pães e de broas, calcular a venda total de pãos e broas, o custo de fabricação, quanto irá guardar na poupança e quantos euros irá comprar.  Ao final exibir os dados calculados.
+
+@[IDE]({"stubs": ["./www/Sequencial"],"command": "sh /project/target/www/Sequencial3.sh"
+})
+
 ::: Solução
 ``` C
 #include<stdio.h>
@@ -96,5 +103,3 @@ int main(){
 :::
 ---
 
-@[IDE]({"stubs": ["./www/Sequencial"],"command": "sh /project/target/www/Sequencial3.sh"
-})
