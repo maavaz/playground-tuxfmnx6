@@ -110,4 +110,30 @@ A escola “APRENDER” faz o pagamento de seus professores por hora/aula mais 1
 
 @[IDE]({"stubs": ["./www/condicional"],"command": "sh /project/target/www/condicional1.sh"
 })
+::: Solução
+
+``` C
+#include<stdio.h>
+int main(){
+int nivel;
+int horas;
+float salario;
+float dsr;
+printf("Digite a quantidade de horas trabalhadas :");
+scanf("%d", &horas);
+printf("Digite o nivel do professor(1 ou 2): ");
+scanf("%d", &nivel);
+if (nivel == 1){
+   salario= horas * 56;
+}
+else {
+   salario= horas * 66;
+}
+dsr = salario *  0.15;
+salario = salario + dsr;
+printf("o salario do professor é: %f", salario);
+}
+
+```
+:::
 ----
