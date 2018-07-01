@@ -11,11 +11,11 @@ else {
 ```
 Considere três execuções do trecho de código acima, onde os valores armazenados por X e Y são apresentados abaixo:
 
-| | X | Y | |
-| |---|---| |
-| | 1 | 2 | |
-| | 1 | 1 | |
-| | 2 | 3 | |
+|   | X | Y |   |
+|---|---|---|---|
+|   | 1 | 2 |   |
+|   | 1 | 1 |   |
+|   | 2 | 3 |   |
 
 ?[Qual das execuções acima (valores de X e Y), faz com que a variável W armazene o valor 0 (zero):]
 -[ ] X = 2 e Y= 3.
