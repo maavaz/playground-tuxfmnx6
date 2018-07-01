@@ -11,11 +11,11 @@ else {
 ```
 Considere três execuções do trecho de código acima, onde os valores armazenados por X e Y são apresentados abaixo:
 
-| X | Y |
-|---|---|
-| 1 | 2 |
-| 1 | 1 |
-| 2 | 3 |
+| | X | Y | |
+| |---|---| |
+| | 1 | 2 | |
+| | 1 | 1 | |
+| | 2 | 3 | |
 
 ?[Qual das execuções acima (valores de X e Y), faz com que a variável W armazene o valor 0 (zero):]
 -[ ] X = 2 e Y= 3.
@@ -72,7 +72,7 @@ if (idade >= 21){
 ```
 :::
 ---
-As maçãs custam R$ 0,30 cada se forem compradas menos do que uma dúzia, e R$0,25 cada, se forem compradas pelo menos uma dúzia. Escreva um programa que leia o número de maçãs compradas, calcule e escreva o valor total da compra.
+As maçãs custam R$ 0,30 cada se forem compradas menos do que uma dúzia e, R$0,25 cada, se forem compradas pelo menos uma dúzia. Escreva um programa que leia o número de maçãs compradas, calcule e escreva o valor total da compra.
 
 @[IDE]({"stubs": ["./www/condicional"],"command": "sh /project/target/www/condicional1.sh"
 })
