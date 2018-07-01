@@ -17,25 +17,6 @@ Considere três execuções do trecho de código acima, onde os valores armazena
 | 1 | 1 |
 | 2 | 3 |
 
-<table width: "20%" bgcolor: "red">
-  <tr>
-    <th>X</th>
-    <th>Y</th>
-  </tr>
-  <tr>
-    <td text-align: "center" width: "20%" bgcolor: "red">1</td>
-    <td text-align: "center" width: "20%" bgcolor: "red">2</td>
-  </tr>
-  <tr>
-    <td text-align: "center" width: "20%" bgcolor: "red">1</td>
-    <td text-align: "center" width: "20%" bgcolor: "red">1</td>
-  </tr> 
-  <tr>
-    <td text-align: "center" width: "20%" bgcolor: "red">2</td>
-    <td text-align: "center" width: "20%" bgcolor: "red">3</td>
-  </tr>
-</table>
-
 ?[Qual das execuções acima (valores de X e Y), faz com que a variável W armazene o valor 0 (zero):]
 -[ ] X = 2 e Y= 3.
 -[ ] X = 1 e Y= 2.
