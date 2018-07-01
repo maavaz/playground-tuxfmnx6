@@ -102,3 +102,9 @@ printf("o valor de sua compra é: %f", compra);
 :::
 
 ---
+###### Exercício 3  
+----
+A escola “APRENDER” faz o pagamento de seus professores por hora/aula mais 15% do salário referente ao Descanso Semanal Remunerado (DSR). Faça um programa C que leia a quantidade de horas dadas no Mês, calcule e exiba o salário de um professor. Sabe-se que o valor da hora/aula segue a tabela abaixo: 
+•	Professor Nível 1 R$56,00 por hora/aula 
+•	Professor Nível 2 R$66,00 por hora/aula 
+----
