@@ -17,7 +17,7 @@ Considere três execuções do trecho de código acima, onde os valores armazena
 | 1 | 1 |
 | 2 | 3 |
 
-<table tablestyle="width: 20%" style="background-color: red;">
+<table width: "20%" bgcolor: "red">
   <tr>
     <th>X</th>
     <th>Y</th>
