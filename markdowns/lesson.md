@@ -22,8 +22,8 @@ Considere três execuções do trecho de código acima, onde os valores armazena
     <th>X</th>
     <th>Y</th>
   </tr>
-  <tr style="text-align: center;">
-    <td>1</td>
+  <tr>
+    <td style="text-align: center;">1</td>
     <td>2</td>
   </tr>
   <tr>
