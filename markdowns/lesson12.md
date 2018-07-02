@@ -12,3 +12,11 @@
 + Esse tipo de processamento é representado pela estrutura do ```for```
 ![for](/markdowns/for.png)
 
+Exemplo:
++ Antes de apresentarmos o exemplo, uma explicação sobre incrementos em C:
+    + incrementar de 1 unidade uma variável em C, pode ser feito da seguinte maneira: ```var++``` isso corresponde a:```var = var + 1```
+
+```C runnable
+int i;
+for (i=1; i <= 5; 
+
