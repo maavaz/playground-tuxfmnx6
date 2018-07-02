@@ -33,6 +33,8 @@ plan:
     statement: markdowns/lesson10.md
   - title: Exercícios Processamento Condicional
     statement: markdowns/lesson.md
+  - title: Processamento com Repetição
+    statement: markdowns/lesson12.md 
 projects:
   cpp:
     root: /cpp-project
