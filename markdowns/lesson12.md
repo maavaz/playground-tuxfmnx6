@@ -10,5 +10,5 @@
 ### Processamento com um número pré-determinado de repetições.
 ---
 + Esse tipo de processamento é representado pela estrutura do ```for```
-![for](/markdowns/for.pgn)
+![for](/markdowns/for.png)
 
