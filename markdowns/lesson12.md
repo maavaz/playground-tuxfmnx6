@@ -14,9 +14,14 @@
 
 Exemplo:
 + Antes de apresentarmos o exemplo, uma explicação sobre incrementos em C:
-    + incrementar de 1 unidade uma variável em C, pode ser feito da seguinte maneira: ```var++``` isso corresponde a:```var = var + 1```
-
+    + A representação do incremento de 1 unidade uma variável em C, é feito da seguinte maneira: ```var++```, isso é a mesa coisa que:```var = var + 1```
++ O exemplo a seguir exibe os números de 1 até 5.
 ```C runnable
 int i;
-for (i=1; i <= 5; 
+for (i=1; i <= 5; i++)
+{
+   printf("%d ", i);
+}
+```
+ 
 
