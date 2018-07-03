@@ -81,4 +81,7 @@ Estas operações podem ser usadas como mostram os exemplos abaixo, assumindo qu
 
      i = i + 1;
 ```     
++ A linguagem C possui operadores unários de incremento (++) e decremento (--) representando o incremento e decremento de 1 unidade da variável associada. Por exemplo:
+    + A operação ```var = var + 1``` é representada por ```var++```
+    + A operação ```var = var - 1 ``` é representada por ```var--```
 <strong> Vamos treinar? a seguir, temos uma série de Quiz para avaliarmos o que foi aprendido até o momento...</strong>
