@@ -3,4 +3,20 @@
 ![For](/markdowns/estruturafor.gif)
 
 ----
+Vamos Treinar
+----
+Considere os trechos de código abaixo:
 
+| Código1                  | código 2 |
+|---                       |---       |
+| int x;
+| for (x=0; x < 5; x++)    |          |
+   {
+      printf("\n%d", x);
+   }
+?[Qual das execuções acima (valores de X e Y), faz com que a variável W armazene o valor 0 (zero):]
+-[ ] X = 2 e Y= 3.
+-[ ] X = 1 e Y= 2.
+-[x] X = 1 e Y= 1.
+-[ ] Em nenhuma das três execuções a variável W conterá o valor 0.
+----
