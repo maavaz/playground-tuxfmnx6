@@ -14,7 +14,6 @@ for (x=0; x < 5; x++)
    printf("\n%d", x);
  }
  ```                           
- ----
 Código 2
  ```C                           
 int x;                                           
