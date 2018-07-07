@@ -6,7 +6,7 @@
 Vamos Treinar
 ----
 Considere os trechos de código abaixo:
-Código 1                        
++ Código 1                        
 ``` C                       
 int x;                                           
 for (x=0; x < 5; x++)    
@@ -14,18 +14,18 @@ for (x=0; x < 5; x++)
    printf("\n%d", x);
  }
  ```                           
-Código 2
++ Código 2
  ```runnable C                              
 int x;                                           
-for (x=5; x > 0; x--)    
+for (x=4; x > 0; x--)    
  {
-   printf("\n%d",  5 - x);
+   printf("\n%d",  4 - x);
  }
  ```     
 
-?[Qual das execuções acima (val e Y), fa e Y), fa e Y)e a variável W armazene o valor 0 (zero):]
--[ ] X = 2 e Y= 3.
--[ ] X = 1 e Y= 2.
--[x] X = 1 e Y= 1.
--[ ] Em nenhuma das três execuções a variável W conterá o valor 0.
+?[Assinale a alternativa correte com relação a execuções dos códigos acima (Código 1 e 2):]
+-[ ] o código 1 exibe os números de 1 até 5 e o código 2 de 1 até 4.
+-[ ] o código 1 exibe os números de 0 até 5 e o código 2 de 0 até 4.
+-[x] o código 1 e o codigo 2 exibem os números de 0 até 4.
+-[ ] o código 1 exibe os números de 0 até 4 e o código 2 de 4 até 0.
 ----
