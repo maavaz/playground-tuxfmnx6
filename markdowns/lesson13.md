@@ -7,7 +7,7 @@ Vamos Treinar
 ----
 Considere os trechos de código abaixo:
 Código 1                        
-´´´ C                           
+´´´ runnable C                           
 int x;                                           
 for (x=0; x < 5; x++)    
  {
@@ -15,7 +15,7 @@ for (x=0; x < 5; x++)
  }
  ```                           
 Código 2
- ```C                           
+ ```runnable C                              
 int x;                                           
 for (x=5; x > 0; x--)    
  {
