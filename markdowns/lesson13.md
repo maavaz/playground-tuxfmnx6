@@ -6,14 +6,12 @@
 Vamos Treinar
 ----
 Considere os trechos de código abaixo:
-
-| Código1                  | código 2 |
-|--------------------------|--------- |
-| int x;                   |          |
-| for (x=0; x < 5; x++)    |          |
-   {
-      printf("\n%d", x);
-   }
+Código 1                        Código 2
+int x;                          int x;                 
+for (x=0; x < 5; x++)    
+ {
+   printf("\n%d", x);
+ }
 ?[Qual das execuções acima (val e Y), fa e Y), fa e Y)e a variável W armazene o valor 0 (zero):]
 -[ ] X = 2 e Y= 3.
 -[ ] X = 1 e Y= 2.
