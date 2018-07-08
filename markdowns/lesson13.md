@@ -29,3 +29,8 @@ for (x=4; x > 0; x--)
 -[x] o código 1 e o codigo 2 exibem os números de 0 até 4.
 -[ ] o código 1 exibe os números de 0 até 4 e o código 2 de 4 até 0.
 ----
+
+@[IDE]({"stubs": ["./www/condicional"],"command": "sh /project/target/www/condicional1.sh"
+})
+::: Solução
+:::
