@@ -29,9 +29,23 @@ for (x=4; x > 0; x--)
 -[x] o código 1 e o codigo 2 exibem os números de 0 até 4.
 -[ ] o código 1 exibe os números de 0 até 4 e o código 2 de 4 até 0.
 ----
-1 Faça uma programa em C que imprima a soma dos numeros inteiros entre 5 e 10 (inclusive). 
+###### Exercício 1
+----
+Faça uma programa em C que imprima a soma dos numeros inteiros entre 5 e 10 (inclusive). 
 
 @[IDE]({"stubs": ["./www/condicional"],"command": "sh /project/target/www/condicional1.sh"
 })
 ::: Solução
+``` C  
+#include <stdio.h>
+int main() {
+ int i;
+ int soma;
+ soma = 0; // Inicializa a variavel soma
+ for(i=5; i < 11; i++) {  // a variavel i contera os numeros de 5 a 10
+    soma = soma + i;
+ }
+ printf("A soma dos numeros de 5 a 10 é igual a %d", soma);
+}
+```
 :::
