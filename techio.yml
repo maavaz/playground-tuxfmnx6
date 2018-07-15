@@ -33,7 +33,7 @@ plan:
     statement: markdowns/lesson10.md
   - title: Exercícios Processamento Condicional
     statement: markdowns/lesson.md
-  - title: Processamento com Repetição 
+  - title: Processamento com Repetição - For 
     statement: markdowns/lesson12.md 
   - title: Processamento com Repetição - For
     statement: markdowns/lesson13.md   
