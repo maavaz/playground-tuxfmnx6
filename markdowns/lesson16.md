@@ -10,20 +10,7 @@
 
 + O exemplo a seguir lê uma sequência de números inteiros positivos. O programa termina quando for lido um valor negativo.
 
-@[IDE]({"stubs": ["./www/ExemploEntrada"],"command": "sh /project/target/www/entrada.sh"
+@[IDE]({"stubs": ["./www/ExemploEntrada"],"command": "sh /project/target/www/Sinal.sh"
 })
 
-```C runnable
-#include<stdio.h>
-int main() 
-{
-int i;
-i = 1;
-while (i <= 5)
-{
-   printf("%d ", i);
-   i++;
-}
-}
-```
 
