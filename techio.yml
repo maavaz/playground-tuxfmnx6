@@ -33,13 +33,13 @@ plan:
     statement: markdowns/lesson10.md
   - title: Exercícios Processamento Condicional
     statement: markdowns/lesson.md
-  - title: Processamento com Repetição
+  - title: Processamento com Repetição 
     statement: markdowns/lesson12.md 
-  - title: Processamento com Repetição
+  - title: Processamento com Repetição - For
     statement: markdowns/lesson13.md   
-  - title: Processamento com Repetição
+  - title: Processamento com Repetição - While
     statement: markdowns/lesson14.md  
-  - title: Processamento com Repetição
+  - title: Processamento com Repetição - While
     statement: markdowns/lesson15.md     
 projects:
   cpp:
