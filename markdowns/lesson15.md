@@ -22,4 +22,4 @@ while (x > 0)
 ----
 ###### Exercícios
 ----
-clique aqui para retornar a lista de exercícios do ```for``` e refaça-os utilizando ```while```
+[clique aqui](#Exercícios)para retornar a lista de exercícios do ```for``` e refaça-os utilizando ```while```
