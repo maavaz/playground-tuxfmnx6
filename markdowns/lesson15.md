@@ -14,7 +14,7 @@ while (x > 0)
    printf("\n%d", x);
  }
  ```                           
-?[Assinale a alternativa correte com relação a execução do trecho de código acima :]
+?[Assinale a alternativa correta com relação a execução do trecho de código acima :]
 -[ ] exibe os números de 1 até 5.
 -[x] exibe os números de 5 até 1.
 -[ ] exibe os números de 0 até 5.
