@@ -1,2 +1,2 @@
 
-echo "TECHIO> open -s /project/target/www ExemploSinalizador.html"
+echo "TECHIO> open -s /project/target/www exemploSinalizador.html"
