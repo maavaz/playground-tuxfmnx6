@@ -12,6 +12,7 @@ x= 5;
 while (x > 0)    
  {
    printf("\n%d", x);
+   x--;
  }
  ```                           
 ?[Assinale a alternativa correta com relação a execução do trecho de código acima :]
@@ -22,4 +23,4 @@ while (x > 0)
 ----
 ###### Exercícios
 ----
-[clique aqui](/markdowns/lesson13.md) para retornar a lista de exercícios do ```for``` e refaça-os utilizando ```while```
+[clique aqui](/markdowns/lesson13.md) para retornar a página contendo a lista de exercícios do ```for``` e refaça-os utilizando ```while```
