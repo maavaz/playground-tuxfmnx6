@@ -37,6 +37,8 @@ plan:
     statement: markdowns/lesson12.md 
   - title: Processamento com Repetição
     statement: markdowns/lesson13.md   
+  - title: Processamento com Repetição
+    statement: markdowns/lesson14.md   
 projects:
   cpp:
     root: /cpp-project
