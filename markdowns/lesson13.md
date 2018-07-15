@@ -28,8 +28,12 @@ for (x=4; x > 0; x--)
 -[ ] o código 1 exibe os números de 0 até 5 e o código 2 de 0 até 4.
 -[x] o código 1 e o codigo 2 exibem os números de 0 até 4.
 -[ ] o código 1 exibe os números de 0 até 4 e o código 2 de 4 até 0.
+
 ----
-###### [Exercício 1](#Exercício 1)
+ * [Exercícios](#exercicios)
+----
+----
+###### Exercício 1
 ----
 Faça uma programa em C que imprima a soma dos numeros inteiros entre 5 e 10 (inclusive). 
 
