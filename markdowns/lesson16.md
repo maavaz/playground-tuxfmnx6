@@ -9,6 +9,10 @@
 ![while](/markdowns/while2.png)
 
 + O exemplo a seguir lê uma sequência de números inteiros positivos. O programa termina quando for lido um valor negativo.
+
+@[IDE]({"stubs": ["./www/ExemploEntrada"],"command": "sh /project/target/www/entrada.sh"
+})
+
 ```C runnable
 #include<stdio.h>
 int main() 
