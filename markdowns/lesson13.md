@@ -30,7 +30,7 @@ for (x=4; x > 0; x--)
 -[ ] o código 1 exibe os números de 0 até 4 e o código 2 de 4 até 0.
 
 ----
- * Exercícios
+ ## heading<a name="headin"></a>
 ----
 ----
 ###### Exercício 1
