@@ -27,9 +27,9 @@ plan:
     statement: markdowns/lesson7.md
   - title: Processamento Condicional
     statement: markdowns/lesson8.md  
-  - title: Processamento Condicional (Simples)
+  - title: Processamento Condicional - Simples
     statement: markdowns/lesson9.md
-  - title: Processamento Condicional (Composta)
+  - title: Processamento Condicional - Composta
     statement: markdowns/lesson10.md
   - title: Exercícios Processamento Condicional
     statement: markdowns/lesson.md
