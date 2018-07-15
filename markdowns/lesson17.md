@@ -3,7 +3,7 @@
 ----
 ###### Exercício 1
 ----
-Faça uma programa em C que imprima a soma dos numeros inteiros entre 5 e 10 (inclusive). 
+Faça uma programa em C que leia um conjunto de numeros inteiros e imprima apenas os números pares. O programa termina quando for lido o valor zero. 
 
 @[IDE]({"stubs": ["./www/condicional"],"command": "sh /project/target/www/condicional1.sh"
 })
@@ -11,14 +11,21 @@ Faça uma programa em C que imprima a soma dos numeros inteiros entre 5 e 10 (in
 ``` C  
 #include <stdio.h>
 int main() {
- int i;
- int soma;
- soma = 0; // Inicializa a variavel soma
- for(i=5; i < 11; i++) {  // a variavel i gera os numeros de 5 a 10
-    soma = soma + i;
+ int num, resto;
+printf("\nDigite um valor inteiro: ");
+scanf("%d", &num);
+while (num != 0)
+ {
+   resto = num%2;
+   if (resto == 0){
+     printf("\n%d e PAR", num);
+   }
+   printf("\nDigite um valor inteiro: ");
+   scanf("%d", &num);
  }
- printf("A soma dos numeros de 5 a 10 é igual a %d", soma);
+
 }
+
 ```
 :::
 ----
