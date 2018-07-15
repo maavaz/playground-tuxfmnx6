@@ -38,7 +38,9 @@ plan:
   - title: Processamento com Repetição
     statement: markdowns/lesson13.md   
   - title: Processamento com Repetição
-    statement: markdowns/lesson14.md   
+    statement: markdowns/lesson14.md  
+  - title: Processamento com Repetição
+    statement: markdowns/lesson15.md     
 projects:
   cpp:
     root: /cpp-project
