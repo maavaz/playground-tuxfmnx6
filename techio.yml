@@ -42,7 +42,9 @@ plan:
   - title: Processamento com Repetição - While
     statement: markdowns/lesson15.md     
   - title: Processamento com Repetição - While
-    statement: markdowns/lesson16.md 
+    statement: markdowns/lesson16.md
+  - title: Processamento com Repetição - While
+    statement: markdowns/lesson17.md  
 projects:
   cpp:
     root: /cpp-project
