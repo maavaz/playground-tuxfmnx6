@@ -22,4 +22,4 @@ while (x > 0)
 ----
 ###### Exercícios
 ----
-[clique aqui](#/markdowns/lesson13.md/headin) para retornar a lista de exercícios do ```for``` e refaça-os utilizando ```while```
+[clique aqui](/markdowns/lesson13.md/headin) para retornar a lista de exercícios do ```for``` e refaça-os utilizando ```while```
