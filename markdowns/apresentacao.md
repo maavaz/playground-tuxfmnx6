@@ -11,4 +11,4 @@ A ideia da <b>Tech.io</b> é inovadora, pois permite o compartilhamento do conhe
 + Testes para fixação dos conceitos
 + Exercícios de programação
 
-Pare desenvolver os exercícios de programação o aluno utilizará dois IDES no próprio Playground (repl.it e paiza.io).
+Além ambiente de desenvolvimento de programas <b>Tech.io</b>, onde  derá executar alguns exemplos, Pare desenvolver os exercícios de programação o aluno utilizará dois IDES no próprio Playground (repl.it e paiza.io).
