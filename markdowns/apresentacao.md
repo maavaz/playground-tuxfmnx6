@@ -1,5 +1,5 @@
 ----
-                                       <b>INTRODUÇÃO A PROGRAMAÇÃO C</b>
+INTRODUÇÃO A PROGRAMAÇÃO C
 ----
 
 Olá pessoal,
