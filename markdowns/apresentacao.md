@@ -15,4 +15,4 @@ Por algumas limitações no ambiente de desenvolvimento de programas disponibili
 Por que usar dois outros ambientes? Ainda não me decidi qual o melhor (ainda é uma experiência, não?), por isso peço novamente ajuda de vocês. 
 A diferença entre os dois ambientes está na entrada de dados: 
 + <b>repl.it</b> - a entrada de dados é feita diretamente na janela de execução do ambiente, portanto semelhante se usásemos um ambiente local.
-+ <b>paiz.io</b> - a entrada de dados é feita numa janela denominada <b>Input</b>, onde o aluno deverá, antes da execução, digitar todos os valores que serão lidos pela aplicação.
++ <b>paiza.io</b> - a entrada de dados é feita numa janela denominada <b>Input</b>, onde o aluno deverá, antes da execução, digitar todos os valores que serão lidos pela aplicação.
