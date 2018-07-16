@@ -39,15 +39,29 @@ Faça uma programa em C que leia as informações das contas dos clientes de um 
 ``` C  
 #include <stdio.h>
 int main() {
- int i;
+ int conta;
+ float saldo, taxa;
+printf("\nDigite o numero da conta: ");
+scanf("%d", &conta);
+while (conta != -1)
+ {
+   printf("\nDigite o saldo da conta: ");
+   scanf("%f", &saldo);
 
- for(i=1000; i < 2001; i++) {  // a variavel i gera os numeros de 1000 a 2000
-    if (i % 11 == 5) {
-      printf("\n%d", i);
-    }
+   if (saldo >= 10000){
+     taxa = saldo * 0.001;
+   }
+   else {
+     taxa = saldo * 0.002;
+   }
+   printf("\n\n saldo atual = %f", saldo - taxa);
+   printf("\n\n taxa Servicos = %f", taxa);
+   printf("\nDigite o numero da conta: ");
+   scanf("%d", &conta);
  }
 
 }
+
 ```
 :::
 ----
