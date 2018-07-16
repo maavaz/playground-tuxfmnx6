@@ -7,7 +7,7 @@ plan:
   description: Apresentação do Playground
   plan:
   - title: Boas Vindas
-    statement: /markdowns/apresentacao.md 
+    statement: markdowns/apresentacao.md 
 plan:
 - title: Conceitos Básicos
   description: Esta é a descrição do primeiro capítulo.
