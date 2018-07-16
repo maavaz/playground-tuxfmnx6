@@ -1,4 +1,3 @@
-----
 INTRODUÇÃO A PROGRAMAÇÃO C
 ----
 
