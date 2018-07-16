@@ -2,7 +2,9 @@ title: Introdução a Programação C
 cover: /cover.png
 plan:
 - title: Introdução a Programação C - Prof. MARCO VAZ
-  statement: apresentacao.md 
+plan:
+   - title: Apresentação
+     statement: apresentacao.md 
 plan:
 - title: Conceitos Básicos
   description: Esta é a descrição do primeiro capítulo.
