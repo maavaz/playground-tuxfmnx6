@@ -3,15 +3,11 @@ cover: /cover.png
 plan:
 - title: Introdução a Programação C - Prof. MARCO VAZ
 plan:
-- title: Apresentação
-  description: Apresentação do Playground
-  plan:
-  - title: Boas Vindas
-    statement: markdowns/apresentacao.md 
-plan:
 - title: Conceitos Básicos
   description: Esta é a descrição do primeiro capítulo.
   plan:
+  - title: Apresentação
+    statement: /markdowns/apresentacao.md
   - title: Introdução a Programação C
     statement: /markdowns/welcome.md
   - title: Anatomia de um Programa C
