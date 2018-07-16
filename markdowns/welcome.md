@@ -1,4 +1,4 @@
-# Apresentação
+# Introdução
 
 + A linguagem de programação C é uma linguagem de propósito geral, estruturada, imperativa, procedural.
 + Criada em 1972, por Dennis Ritchie, no AT&T Bell Labs, para desenvolver o sistema operacional Unix (que foi originalmente escrito em Assembly). 
