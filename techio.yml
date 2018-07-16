@@ -7,13 +7,13 @@ plan:
   description: Apresentação do Playground
   plan:
   - title: Boas Vindas
-    statement: apresentacao.md 
+    statement: /markdowns/apresentacao.md 
 plan:
 - title: Conceitos Básicos
   description: Esta é a descrição do primeiro capítulo.
   plan:
   - title: Introdução a Programação C
-    statement: markdowns/welcome.md
+    statement: /markdowns/welcome.md
   - title: Anatomia de um Programa C
     statement: /markdowns/lesson2.md
   - title: Elementos Básicos
