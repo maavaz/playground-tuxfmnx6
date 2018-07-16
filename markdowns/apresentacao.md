@@ -11,7 +11,7 @@ A ideia da <b>Tech.io</b> é inovadora, pois permite o compartilhamento do conhe
 + Testes para fixação dos conceitos
 + Exercícios de programação
 
-Por algumas limitações no ambiente de desenvolvimento de programas <b>Tech.io</b>, onde o aluno poderá alterar e executar alguns exemplos, utilizamos dois outros ambientes([repl.it](https://repl.it/ "repl.it")  e [paiza.io](https://paiza.io/en/ "paiza.io"), que permitem que os alunos possam desenvolver e excutar programas.
+Por algumas limitações no ambiente de desenvolvimento de programas <b>Tech.io</b>, onde o aluno poderá alterar e executar alguns exemplos, utilizamos dois outros ambientes([repl.it](https://repl.it/ "repl.it")  e [paiza.io](https://paiza.io/en/ "paiza.io")), que permitem que os alunos possam desenvolver e excutar programas.
 Há diferença entre os dois ambientes está na entrada de dados: 
 + <b>repl.it</b> - a entrada de dados é feita diretamente na janela de execução do ambiente, portanto semelhante se usásemos um ambiente local.
 + <b>paiz.io</b> - a entrada de dados é feita numa janela denominada <b>Input</b>, onde o aluno deverá, antes da execução, digitar todos os valores que serão lidos pela aplicação.
