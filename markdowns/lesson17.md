@@ -3,7 +3,7 @@
 ----
 ###### Exercício 1
 ----
-Faça uma programa em C que leia um conjunto de numeros inteiros e imprima apenas os números pares. O programa termina quando for lido o valor zero. 
+Faça um programa em C que leia um conjunto de numeros inteiros e imprima apenas os números pares. O programa termina quando for lido o valor zero. 
 
 @[IDE]({"stubs": ["./www/condicional"],"command": "sh /project/target/www/condicional1.sh"
 })
@@ -31,7 +31,7 @@ while (num != 0)
 ----
 ###### Exercício 2
 ----
-Faça uma programa em C que leia as informações das contas dos clientes de um Banco. O programa deverá ler o número da conta e o saldo do cliente.Para contas com saldo de pelo menos 10.000,00 reais o valor do pacote de serviços é igual a 0,1%, do contrário 0,3%. Para cad conta, calcule e exiba o valor da taxa de serviços e o novo saldo. O programa termina quando o número da conta é igual a -1. 
+Faça um programa em C que leia as informações das contas dos clientes de um Banco. O programa deverá ler o número da conta e o saldo do cliente.Para contas com saldo de pelo menos 10.000,00 reais o valor do pacote de serviços é igual a 0,1%, do contrário 0,3%. Para cad conta, calcule e exiba o valor da taxa de serviços e o novo saldo. O programa termina quando o número da conta é igual a -1. 
 
 @[IDE]({"stubs": ["./www/condicional"],"command": "sh /project/target/www/condicional1.sh"
 })
