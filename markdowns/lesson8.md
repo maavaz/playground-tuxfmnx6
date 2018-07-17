@@ -2,7 +2,6 @@
 + O processamento Condicional introduz a estrutura de decisão ```IF``` que possibilita agrupar um conjunto de comandos (1 ou mais) a uma ou mais condições.
 + A execução desse conjunto de comandos dependerá da avaliação (verdadeira ou Falsa) da(s) condição(ões) associada(s).
 + As condições são representadas através de expressões relacionais. 
-+ As condições são representadas pelas expressões relacionais.
 + As expressões relacionais permitem a comparação de valores de mesmo tipo, cujo resultado é um valor do tipo Verdadeiro ou Falso. 
 
 **Operadores Relacionais:**
