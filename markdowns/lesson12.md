@@ -1,5 +1,5 @@
 # Processamento com Repetição
-+ O processamento com repetição permite a repetição da execução de um conjunto de comandos associados a uma condição.
++ O processamento com repetição permite que um conjunto de comandos associados a uma condição possam ser repetidos n vezes.
 + Enquanto a condição associada for verdadeira, o conjunto de comandos é executado várias vezes.
 + Há dois tipos de processamento com repetição: 
     + Processamento com um número pré-determinado de repetições.
