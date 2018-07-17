@@ -13,8 +13,10 @@
 ![for](/markdowns/for.png)
 
 
-+ Antes de apresentarmos um exemplo, vamos revisitar os incrementos em C:
-    + Vale Lembrar: a representação do incremento de 1 unidade em uma variável em C, é feito da seguinte maneira: ```var++```, isso é a mesma coisa que:```var = var + 1```
++ Antes de apresentarmos um exemplo, vamos revisitar a forma de representar incrementos/decrementos em C:
+    + Vale Lembrar: 
+        +  a representação do incremento de 1 unidade em uma variável em C, é feito da seguinte maneira: ```var++```, isso é a mesma coisa que:```var = var + 1```
+        +  a representação do decremento de 1 unidade em uma variável em C, é feito da seguinte maneira: ```var--```, isso é a mesma coisa que:```var = var - 1```
 + O exemplo a seguir exibe os números de 1 até 5.
 ```C runnable
 #include<stdio.h>
