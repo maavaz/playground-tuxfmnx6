@@ -3,7 +3,7 @@
 Observe o trecho do programa C abaixo.
 ``` 
  if (X >= Y){
-   W=0;
+  W=0;
  }  
 else { 
   W=1;
