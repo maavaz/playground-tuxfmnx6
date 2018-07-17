@@ -23,9 +23,9 @@ Note-se que o operando do lado esquerdo do operador de atribuição é sempre um
  Para utilizarmos essa função é necessário incluirmos a diretiva **#include** para o arquivo **stdio.h**, como exibido abaixo:<br />
                                               **#include<stdio.h>**
  <ul>
-  <li>EXIBINDO MENSAGENS (TEXTOS) NA TELA DO COMPUTADOR</li>
+  <li>EXIBIR MENSAGENS (TEXTOS) NA TELA DO COMPUTADOR</li>
  </ul> 
-  Para que o comando <strong>printf</strong> exiba qualquer <strong>mensagem (Texto)</strong> que o usuário desejar, basta colocar a mensagem entre aspas duplas, como no trecho de código abaixo (para executar selecione a tecla Run):
+  Utilizar o comando <strong>printf</strong> para exibir <strong>mensagens de texto</strong>. No comando, a mensagem deverá estar entre aspas duplas, como no trecho de código abaixo (para executar selecione a tecla Run):
   
  ```C runnable
  #include<stdio.h> //Obrigatório para executar o comando printf
