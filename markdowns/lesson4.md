@@ -66,7 +66,7 @@ obs: existem outros caracteres de formatação que apresentaremos a medida que n
  }
 ``` 
 # Operações Aritméticas
-Em C , nós podemos executar operações aritméticas usando variáveis e constantes como operandos separados pelos operadores aritméticos. Os operadores aritméticos em C são:
+Em C , podemos escrever as operações aritméticas usando variáveis e constantes como operandos separados pelos operadores aritméticos. Os operadores aritméticos em C são:
 
 <H4> +  (adição) </H4>
 <H4> -  (subtração) </H4>
@@ -74,7 +74,7 @@ Em C , nós podemos executar operações aritméticas usando variáveis e consta
 <H4> /  (divisão) </H4>
 <H4> %   (resto)  </H4>
 
-Exemplos de operações aritméticas (assume-se que as variáveis já estão declaradas):
+Exemplos de operações aritméticas (assume-se que as variáveis já estejam declaradas):
 ```
      celsius = (fahrenheit - 32) * 5.0 / 9.0;
 
