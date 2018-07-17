@@ -1,4 +1,4 @@
-+ Uma animação exibindo a execução do comando ```for```
++ Uma animação exibindo a execução do comando ```while```
 
 ![while](/markdowns/estruturawhile.gif)
 
