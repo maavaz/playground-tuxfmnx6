@@ -40,10 +40,11 @@ Note-se que o operando do lado esquerdo do operador de atribuição é sempre um
 
 Utilizar o comando **printf** para exibir **valores numéricos**. Para sua correta exibição, é obrigatório formatar/associar o número a ser exibido com os caracteres de formatação.
 
-```
 <b>Caracteres de formatação são formados pelo simbolo % seguido de uma letra que representa o tipo de dado que se quer exibir:</b>
-%d - variáveis e valores do tipo int
-%f - variáveis e valores do tipo float 
+
+```
+%d - associado a valores do tipo int
+%f - associado a valores do tipo float 
 
 obs: existem outros caracteres de formatação que apresentaremos a medida que necessitarmos.
 
