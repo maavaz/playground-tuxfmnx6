@@ -34,9 +34,9 @@ Note-se que o operando do lado esquerdo do operador de atribuição é sempre um
     printf("Isso é uma mensagem de exemplo para exibirmos textos!");
  }
 ``` 
-<ul>
-<li>EXIBIR NÚMEROS NA TELA DO COMPUTADOR </li>
-</ul>
+---
+EXIBIR NÚMEROS NA TELA DO COMPUTADOR 
+---
 
 Utilizar o comando **printf** para exibir **valores numéricos**. Para sua correta exibição, é obrigatório formatar/associar o número a ser exibido com os caracteres de formatação.
 
