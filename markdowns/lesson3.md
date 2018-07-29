@@ -45,7 +45,7 @@ single salario, desconto;     // as variáveis salario e desconto irão armazena
 
 Sintaxe:
 
-<strong> tipo_da_variável     variavel1, variavel2, ..., variavelN; </strong>
+<strong> tipo_da_variável</strong>   variavel1, variavel2, ..., variavelN; 
 
  
 onde tipo_da_variável  é um tipo válido em C (pex. int, char etc) e variavel1, variavel2 .... pode ser um ou mais nomes de identificadores separados por virgula.
