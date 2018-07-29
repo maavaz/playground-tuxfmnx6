@@ -15,7 +15,7 @@
 + É obrigatório o uso do caracter `&(E comercial)` na frente da variável que irá receber o valor digitado.
 
 <b>ATENÇÃO1:</b>
-O comando <b>scanf</b> não elimina o caracter <b>Enter('\0')</b>, portanto em variáveis do tipo char esse caracter é lido comando seguinte. Logo, em comandos de leitura de variáveis do tipo char, coloque a função <b>getchar()</b> antes do commando para solucionar o problema. Veja o exemplo abaixo:
+O comando <b>scanf</b> não elimina o caracter <b>Enter('\0')</b>, portanto em variáveis do <b>tipo char</b> esse caracter é lido no comando <b>scanf</b> seguinte. Logo, em comandos de leitura de variáveis do tipo char, coloque a função <b>getchar()</b> antes do commando para solucionar o problema. Veja o exemplo abaixo:
 ```C
 #include<stdio.h>
 int main(){
