@@ -86,4 +86,4 @@ Exemplos de operações aritméticas (assume-se que as variáveis já estejam de
     + A operação ```var = var + 1``` é representada por ```var++```
     + A operação ```var = var - 1 ``` é representada por ```var--```
 
-<strong> Vamos treinar? a seguir, temos uma série de Quiz para avaliarmos o que foi aprendido até o momento...</strong>
+<strong> Vamos praticar? a seguir, temos uma série de Quiz para avaliarmos o que foi aprendido até o momento...</strong>
