@@ -16,3 +16,10 @@ Por que usar dois outros ambientes? Ainda não me decidi qual o melhor (ainda é
 A diferença entre os dois ambientes está na forma de enviar dados ao programa (entrada de dados): 
 + <b>repl.it</b> - a entrada de dados é feita diretamente na janela de execução do ambiente, portanto semelhante a execução em um ambiente local.
 + <b>paiza.io</b> - a entrada de dados é feita numa janela denominada <b>Input</b>, onde o aluno deverá, antes da execução, digitar todos os valores que serão lidos pela aplicação.
+
+---
+<p>PS -> Atenção estamos tendo problemas no carregamento dos IDE's externos (Repl.it e Paiza.io). Caso tenha problemas tente resetar o código do IDE. Uma mensagem de confirmação será exibida selecione "YES". Por fim selecione o botão success novamente até carregar. Veja as figuras abaixo.</p>
+
+![figura](/markdowns/ide.png)      ![figura1](/markdowns/confirma.png)
+
+---
