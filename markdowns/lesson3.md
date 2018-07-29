@@ -59,6 +59,7 @@ Exemplos:
 
 # Teste ...
 ----
+]
 ?[Assinalar com um X os nomes válidos (identificadores) para as variáveis abaixo:](multiple)
 - [ ] 'matricula'
 - [X] total_2
