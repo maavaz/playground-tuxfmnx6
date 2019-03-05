@@ -57,7 +57,7 @@ Exemplos:
       float a, A, b;    /* todas variáveis do tipo float */
 
 
-# Teste ...
+# Teste seus conhecimentos ...
 ----
 ]
 ?[Assinalar com um X os nomes válidos (identificadores) para as variáveis abaixo:](multiple)
