@@ -3,7 +3,7 @@ APRESENTAÇÃO
 
 Olá pessoal,
 
-Esse material é uma primeira experiência de estender o conteúdo da disciplina de introdução a programação utilizando a linguagem C.  O objetivo é auxiliar os alunos no desenvolvimento da disciplina, bem como todas as pessoas que estejam com vontade de ingressar no universo da programação C.   
+Esse material é uma primeira experiência de disponibilizar o conteúdo da disciplina de introdução a programação através da linguagem C.  O objetivo é auxiliar os alunos no desenvolvimento da disciplina, bem como todas as pessoas que estejam com vontade de ingressar no universo da programação C.   
 Como é uma experiência, esse material passará por melhorias com o retorno de vocês. Por isso, peço a todos que, qualquer problema que encontrarem aqui ou mesmo novas ideias, entrem em contato para que possamos verificar a melhor maneira de enriquecermos esse conteúdo.
 
 A ideia da <b>Tech.io</b> é inovadora, pois permite o compartilhamento do conhecimento de maneira interativa. Não é um curso de programação, mas uma forma fixar os conhecimentos, através:
