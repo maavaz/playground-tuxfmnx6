@@ -49,4 +49,4 @@ int main(void)
     return(0);
 }
 ```
-***OBS:*** <b>A estrutura condicional aninhada, será apreentada mais para frente...</b>
+***OBS:*** <b>A estrutura condicional aninhada, será apresentada mais para frente...</b>
